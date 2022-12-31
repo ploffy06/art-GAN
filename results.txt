@@ -1,0 +1,2000 @@
+batch: 0, discriminator loss: 1.4149088859558105, generator loss: 1.8933871984481812
+batch: 20, discriminator loss: 0.0626857578754425, generator loss: 6.026467800140381
+batch: 40, discriminator loss: 0.03233896195888519, generator loss: 7.351144790649414
+batch: 60, discriminator loss: 0.013482683338224888, generator loss: 7.626928329467773
+batch: 80, discriminator loss: 0.015358255244791508, generator loss: 7.995247840881348
+======================================
+Epoch: 0/200, discriminator loss: 0.009948568418622017, generator loss: 8.107406616210938
+======================================
+
+
+batch: 0, discriminator loss: 0.007768357638269663, generator loss: 8.175816535949707
+batch: 20, discriminator loss: 0.005128286778926849, generator loss: 8.0966796875
+batch: 40, discriminator loss: 0.008811596781015396, generator loss: 8.052945137023926
+batch: 60, discriminator loss: 0.006276257801800966, generator loss: 8.876571655273438
+batch: 80, discriminator loss: 0.2549601197242737, generator loss: 4.749931335449219
+======================================
+Epoch: 1/200, discriminator loss: 0.0017925322754308581, generator loss: 18.567401885986328
+======================================
+
+
+batch: 0, discriminator loss: 0.00030959758441895247, generator loss: 17.77326202392578
+batch: 20, discriminator loss: 0.0702076256275177, generator loss: 6.455574035644531
+batch: 40, discriminator loss: 0.02210153639316559, generator loss: 7.958312511444092
+batch: 60, discriminator loss: 0.016543371602892876, generator loss: 4.9561662673950195
+batch: 80, discriminator loss: 0.049582839012145996, generator loss: 5.726085186004639
+======================================
+Epoch: 2/200, discriminator loss: 0.1293765902519226, generator loss: 5.627559661865234
+======================================
+
+
+batch: 0, discriminator loss: 0.023440366610884666, generator loss: 8.01376724243164
+batch: 20, discriminator loss: 0.03616352006793022, generator loss: 8.420208930969238
+batch: 40, discriminator loss: 0.07358156889677048, generator loss: 7.9394450187683105
+batch: 60, discriminator loss: 0.2920786440372467, generator loss: 7.050333499908447
+batch: 80, discriminator loss: 0.09206002205610275, generator loss: 5.112695693969727
+======================================
+Epoch: 3/200, discriminator loss: 0.12328356504440308, generator loss: 4.992746353149414
+======================================
+
+
+batch: 0, discriminator loss: 0.20513302087783813, generator loss: 5.69490909576416
+batch: 20, discriminator loss: 0.017149414867162704, generator loss: 6.73720645904541
+batch: 40, discriminator loss: 0.009124336764216423, generator loss: 6.792618751525879
+batch: 60, discriminator loss: 0.46532896161079407, generator loss: 7.284239768981934
+batch: 80, discriminator loss: 0.1238294243812561, generator loss: 5.865421295166016
+======================================
+Epoch: 4/200, discriminator loss: 0.2840281128883362, generator loss: 6.012526512145996
+======================================
+
+
+batch: 0, discriminator loss: 0.0335654579102993, generator loss: 3.808248996734619
+batch: 20, discriminator loss: 0.11178073287010193, generator loss: 5.814898490905762
+batch: 40, discriminator loss: 0.01425087172538042, generator loss: 8.229425430297852
+batch: 60, discriminator loss: 0.07740715146064758, generator loss: 4.851046562194824
+batch: 80, discriminator loss: 0.18651767075061798, generator loss: 4.1761298179626465
+======================================
+Epoch: 5/200, discriminator loss: 0.0790020152926445, generator loss: 6.261015892028809
+======================================
+
+
+batch: 0, discriminator loss: 0.03546462953090668, generator loss: 6.9930524826049805
+batch: 20, discriminator loss: 0.05147865042090416, generator loss: 8.015701293945312
+batch: 40, discriminator loss: 0.17511065304279327, generator loss: 6.029592514038086
+batch: 60, discriminator loss: 0.06091656908392906, generator loss: 5.623589515686035
+batch: 80, discriminator loss: 0.012989797629415989, generator loss: 5.699124336242676
+======================================
+Epoch: 6/200, discriminator loss: 0.009782712906599045, generator loss: 7.007061004638672
+======================================
+
+
+batch: 0, discriminator loss: 0.024968978017568588, generator loss: 6.71089506149292
+batch: 20, discriminator loss: 0.058628156781196594, generator loss: 6.723743438720703
+batch: 40, discriminator loss: 0.015793481841683388, generator loss: 6.0024638175964355
+batch: 60, discriminator loss: 0.036613550037145615, generator loss: 6.149196624755859
+batch: 80, discriminator loss: 0.012275404296815395, generator loss: 7.757596969604492
+======================================
+Epoch: 7/200, discriminator loss: 0.06384661793708801, generator loss: 6.3287787437438965
+======================================
+
+
+batch: 0, discriminator loss: 0.04102134704589844, generator loss: 5.5938591957092285
+batch: 20, discriminator loss: 0.16965490579605103, generator loss: 8.243924140930176
+batch: 40, discriminator loss: 0.06661538779735565, generator loss: 4.699054718017578
+batch: 60, discriminator loss: 0.03145149350166321, generator loss: 5.4096760749816895
+batch: 80, discriminator loss: 0.07460954040288925, generator loss: 6.050687789916992
+======================================
+Epoch: 8/200, discriminator loss: 1.067542314529419, generator loss: 9.769155502319336
+======================================
+
+
+batch: 0, discriminator loss: 0.023553209379315376, generator loss: 9.131974220275879
+batch: 20, discriminator loss: 0.023577725514769554, generator loss: 4.445094585418701
+batch: 40, discriminator loss: 0.10613948851823807, generator loss: 5.895539283752441
+batch: 60, discriminator loss: 0.14713260531425476, generator loss: 5.55349588394165
+batch: 80, discriminator loss: 0.08475694805383682, generator loss: 5.2509260177612305
+======================================
+Epoch: 9/200, discriminator loss: 0.1327919065952301, generator loss: 7.0007004737854
+======================================
+
+
+batch: 0, discriminator loss: 0.02376461960375309, generator loss: 5.850983619689941
+batch: 20, discriminator loss: 0.17467233538627625, generator loss: 7.1676859855651855
+batch: 40, discriminator loss: 0.15591903030872345, generator loss: 6.813039302825928
+batch: 60, discriminator loss: 0.054391611367464066, generator loss: 7.03618860244751
+batch: 80, discriminator loss: 0.02470223978161812, generator loss: 6.968527793884277
+======================================
+Epoch: 10/200, discriminator loss: 0.1895635575056076, generator loss: 6.090148448944092
+======================================
+
+
+batch: 0, discriminator loss: 0.726939857006073, generator loss: 5.626930236816406
+batch: 20, discriminator loss: 0.3289335370063782, generator loss: 4.634366989135742
+batch: 40, discriminator loss: 0.010999045334756374, generator loss: 10.11330795288086
+batch: 60, discriminator loss: 0.19617943465709686, generator loss: 9.152078628540039
+batch: 80, discriminator loss: 0.008334740996360779, generator loss: 7.758904933929443
+======================================
+Epoch: 11/200, discriminator loss: 0.043619491159915924, generator loss: 7.704115867614746
+======================================
+
+
+batch: 0, discriminator loss: 0.025848111137747765, generator loss: 7.470071792602539
+batch: 20, discriminator loss: 0.011502129957079887, generator loss: 9.587041854858398
+batch: 40, discriminator loss: 0.27741917967796326, generator loss: 6.675608158111572
+batch: 60, discriminator loss: 0.12106731534004211, generator loss: 5.277896881103516
+batch: 80, discriminator loss: 0.07584154605865479, generator loss: 10.612237930297852
+======================================
+Epoch: 12/200, discriminator loss: 0.009833445772528648, generator loss: 7.431903839111328
+======================================
+
+
+batch: 0, discriminator loss: 0.021796399727463722, generator loss: 7.858619689941406
+batch: 20, discriminator loss: 0.128829225897789, generator loss: 3.7728841304779053
+batch: 40, discriminator loss: 0.022169075906276703, generator loss: 8.460399627685547
+batch: 60, discriminator loss: 0.027841316536068916, generator loss: 8.550168991088867
+batch: 80, discriminator loss: 0.010713305324316025, generator loss: 7.093781471252441
+======================================
+Epoch: 13/200, discriminator loss: 0.07299056649208069, generator loss: 6.118792533874512
+======================================
+
+
+batch: 0, discriminator loss: 0.026794474571943283, generator loss: 6.361824989318848
+batch: 20, discriminator loss: 0.07580411434173584, generator loss: 7.387643814086914
+batch: 40, discriminator loss: 2.051572322845459, generator loss: 9.443828582763672
+batch: 60, discriminator loss: 0.006841628812253475, generator loss: 8.936972618103027
+batch: 80, discriminator loss: 0.04418458789587021, generator loss: 6.141580104827881
+======================================
+Epoch: 14/200, discriminator loss: 0.042253874242305756, generator loss: 6.593311786651611
+======================================
+
+
+batch: 0, discriminator loss: 0.03046988882124424, generator loss: 8.212364196777344
+batch: 20, discriminator loss: 0.3880680799484253, generator loss: 9.273580551147461
+batch: 40, discriminator loss: 0.07993646711111069, generator loss: 5.647347450256348
+batch: 60, discriminator loss: 0.046684630215168, generator loss: 6.689342975616455
+batch: 80, discriminator loss: 0.032393358647823334, generator loss: 7.858564376831055
+======================================
+Epoch: 15/200, discriminator loss: 0.03886567801237106, generator loss: 7.309465408325195
+======================================
+
+
+batch: 0, discriminator loss: 0.03360660746693611, generator loss: 7.819604396820068
+batch: 20, discriminator loss: 0.010729536414146423, generator loss: 8.871623992919922
+batch: 40, discriminator loss: 0.017712203785777092, generator loss: 6.83503532409668
+batch: 60, discriminator loss: 0.2745182514190674, generator loss: 8.860882759094238
+batch: 80, discriminator loss: 0.09067210555076599, generator loss: 6.834590435028076
+======================================
+Epoch: 16/200, discriminator loss: 0.057869575917720795, generator loss: 6.672660827636719
+======================================
+
+
+batch: 0, discriminator loss: 0.18590176105499268, generator loss: 5.596381187438965
+batch: 20, discriminator loss: 0.08897937834262848, generator loss: 7.777155876159668
+batch: 40, discriminator loss: 0.03252721205353737, generator loss: 7.084283828735352
+batch: 60, discriminator loss: 0.12212644517421722, generator loss: 7.2418670654296875
+batch: 80, discriminator loss: 0.09480723738670349, generator loss: 5.775909900665283
+======================================
+Epoch: 17/200, discriminator loss: 0.054511528462171555, generator loss: 10.509013175964355
+======================================
+
+
+batch: 0, discriminator loss: 0.06107156723737717, generator loss: 9.1545991897583
+batch: 20, discriminator loss: 0.0717390701174736, generator loss: 8.50863265991211
+batch: 40, discriminator loss: 0.0027870445046573877, generator loss: 3.185133695602417
+batch: 60, discriminator loss: 0.1649174690246582, generator loss: 6.416904926300049
+batch: 80, discriminator loss: 0.6090828776359558, generator loss: 2.9825994968414307
+======================================
+Epoch: 18/200, discriminator loss: 0.10572616755962372, generator loss: 5.303177356719971
+======================================
+
+
+batch: 0, discriminator loss: 0.12362775206565857, generator loss: 4.685185432434082
+batch: 20, discriminator loss: 0.006197236478328705, generator loss: 9.818624496459961
+batch: 40, discriminator loss: 0.16631580889225006, generator loss: 4.893712043762207
+batch: 60, discriminator loss: 0.06690116226673126, generator loss: 6.7743659019470215
+batch: 80, discriminator loss: 0.04742150008678436, generator loss: 5.686930179595947
+======================================
+Epoch: 19/200, discriminator loss: 0.17863936722278595, generator loss: 5.6434712409973145
+======================================
+
+
+batch: 0, discriminator loss: 0.040276605635881424, generator loss: 5.987918853759766
+batch: 20, discriminator loss: 0.1701834350824356, generator loss: 6.230574131011963
+batch: 40, discriminator loss: 0.06756056845188141, generator loss: 7.840446949005127
+batch: 60, discriminator loss: 0.04527293145656586, generator loss: 5.183309078216553
+batch: 80, discriminator loss: 0.1682276576757431, generator loss: 4.187509536743164
+======================================
+Epoch: 20/200, discriminator loss: 0.25307613611221313, generator loss: 8.184257507324219
+======================================
+
+
+batch: 0, discriminator loss: 0.25932249426841736, generator loss: 6.31336784362793
+batch: 20, discriminator loss: 0.02415773645043373, generator loss: 7.134178638458252
+batch: 40, discriminator loss: 0.00581551156938076, generator loss: 10.860684394836426
+batch: 60, discriminator loss: 0.05791422724723816, generator loss: 5.800426483154297
+batch: 80, discriminator loss: 0.05689805746078491, generator loss: 6.804512023925781
+======================================
+Epoch: 21/200, discriminator loss: 0.03433647006750107, generator loss: 6.126064777374268
+======================================
+
+
+batch: 0, discriminator loss: 0.05301851034164429, generator loss: 6.423018455505371
+batch: 20, discriminator loss: 0.010703084990382195, generator loss: 6.960814952850342
+batch: 40, discriminator loss: 0.019123554229736328, generator loss: 8.194952011108398
+batch: 60, discriminator loss: 0.03239067271351814, generator loss: 6.179248332977295
+batch: 80, discriminator loss: 0.03766828775405884, generator loss: 11.649967193603516
+======================================
+Epoch: 22/200, discriminator loss: 0.013133920729160309, generator loss: 9.858593940734863
+======================================
+
+
+batch: 0, discriminator loss: 0.010127931833267212, generator loss: 9.446516036987305
+batch: 20, discriminator loss: 0.11598048359155655, generator loss: 3.8262460231781006
+batch: 40, discriminator loss: 0.0755210891366005, generator loss: 9.476642608642578
+batch: 60, discriminator loss: 0.4332939386367798, generator loss: 10.157151222229004
+batch: 80, discriminator loss: 0.3465415835380554, generator loss: 4.833718299865723
+======================================
+Epoch: 23/200, discriminator loss: 0.020496174693107605, generator loss: 6.714509010314941
+======================================
+
+
+batch: 0, discriminator loss: 0.08061276376247406, generator loss: 7.291044235229492
+batch: 20, discriminator loss: 0.0338798388838768, generator loss: 6.202813148498535
+batch: 40, discriminator loss: 0.008142339996993542, generator loss: 9.783669471740723
+batch: 60, discriminator loss: 0.040311191231012344, generator loss: 6.567180633544922
+batch: 80, discriminator loss: 0.3451765179634094, generator loss: 4.537353515625
+======================================
+Epoch: 24/200, discriminator loss: 0.054630931466817856, generator loss: 9.658862113952637
+======================================
+
+
+batch: 0, discriminator loss: 0.0711415633559227, generator loss: 9.55965518951416
+batch: 20, discriminator loss: 0.03311295807361603, generator loss: 7.4419450759887695
+batch: 40, discriminator loss: 0.043608587235212326, generator loss: 8.17497730255127
+batch: 60, discriminator loss: 0.02921941503882408, generator loss: 5.343643665313721
+batch: 80, discriminator loss: 0.05328483507037163, generator loss: 5.099002838134766
+======================================
+Epoch: 25/200, discriminator loss: 0.35384562611579895, generator loss: 6.114919185638428
+======================================
+
+
+batch: 0, discriminator loss: 0.14209721982479095, generator loss: 8.138924598693848
+batch: 20, discriminator loss: 0.00972010102123022, generator loss: 9.150106430053711
+batch: 40, discriminator loss: 0.019544115290045738, generator loss: 5.997299671173096
+batch: 60, discriminator loss: 0.13124167919158936, generator loss: 6.872557163238525
+batch: 80, discriminator loss: 0.0019566526170819998, generator loss: 10.007542610168457
+======================================
+Epoch: 26/200, discriminator loss: 0.014031712897121906, generator loss: 8.531129837036133
+======================================
+
+
+batch: 0, discriminator loss: 0.0026025897823274136, generator loss: 10.803028106689453
+batch: 20, discriminator loss: 0.51048743724823, generator loss: 6.557657718658447
+batch: 40, discriminator loss: 1.078208565711975, generator loss: 12.31570816040039
+batch: 60, discriminator loss: 0.5597082376480103, generator loss: 9.344146728515625
+batch: 80, discriminator loss: 0.047647006809711456, generator loss: 6.253218173980713
+======================================
+Epoch: 27/200, discriminator loss: 0.020221831277012825, generator loss: 7.37593936920166
+======================================
+
+
+batch: 0, discriminator loss: 0.023844020441174507, generator loss: 7.687869071960449
+batch: 20, discriminator loss: 0.01555434800684452, generator loss: 7.329990386962891
+batch: 40, discriminator loss: 0.021849244832992554, generator loss: 6.973611354827881
+batch: 60, discriminator loss: 0.14415854215621948, generator loss: 4.474742889404297
+batch: 80, discriminator loss: 0.26282548904418945, generator loss: 4.355329513549805
+======================================
+Epoch: 28/200, discriminator loss: 0.0366191640496254, generator loss: 6.292119026184082
+======================================
+
+
+batch: 0, discriminator loss: 0.05566592141985893, generator loss: 3.7452197074890137
+batch: 20, discriminator loss: 0.026375185698270798, generator loss: 6.137604713439941
+batch: 40, discriminator loss: 0.3715178370475769, generator loss: 5.291790008544922
+batch: 60, discriminator loss: 0.23328366875648499, generator loss: 4.213817119598389
+batch: 80, discriminator loss: 0.005509029142558575, generator loss: 7.718678951263428
+======================================
+Epoch: 29/200, discriminator loss: 0.04563787579536438, generator loss: 5.157488822937012
+======================================
+
+
+batch: 0, discriminator loss: 0.05477120354771614, generator loss: 5.182324409484863
+batch: 20, discriminator loss: 0.18222591280937195, generator loss: 5.5198163986206055
+batch: 40, discriminator loss: 0.009503629058599472, generator loss: 8.012890815734863
+batch: 60, discriminator loss: 0.03552298620343208, generator loss: 7.844005584716797
+batch: 80, discriminator loss: 0.03700750321149826, generator loss: 8.526759147644043
+======================================
+Epoch: 30/200, discriminator loss: 0.03062986023724079, generator loss: 6.703829765319824
+======================================
+
+
+batch: 0, discriminator loss: 0.032045070081949234, generator loss: 6.665229797363281
+batch: 20, discriminator loss: 0.03805156424641609, generator loss: 11.035170555114746
+batch: 40, discriminator loss: 0.05404248088598251, generator loss: 5.372864723205566
+batch: 60, discriminator loss: 0.000958061486016959, generator loss: 10.785306930541992
+batch: 80, discriminator loss: 0.029537931084632874, generator loss: 6.517330169677734
+======================================
+Epoch: 31/200, discriminator loss: 0.017131583765149117, generator loss: 6.814596176147461
+======================================
+
+
+batch: 0, discriminator loss: 0.030834874138236046, generator loss: 7.562807559967041
+batch: 20, discriminator loss: 0.015656402334570885, generator loss: 5.750183582305908
+batch: 40, discriminator loss: 0.027559489011764526, generator loss: 5.6940717697143555
+batch: 60, discriminator loss: 0.07773936539888382, generator loss: 7.753281593322754
+batch: 80, discriminator loss: 0.020452573895454407, generator loss: 8.250999450683594
+======================================
+Epoch: 32/200, discriminator loss: 0.031040582805871964, generator loss: 7.638429641723633
+======================================
+
+
+batch: 0, discriminator loss: 0.01060697715729475, generator loss: 8.371111869812012
+batch: 20, discriminator loss: 0.13099625706672668, generator loss: 6.922346115112305
+batch: 40, discriminator loss: 0.04360628128051758, generator loss: 6.7377800941467285
+batch: 60, discriminator loss: 0.07287770509719849, generator loss: 5.611930847167969
+batch: 80, discriminator loss: 0.47318920493125916, generator loss: 8.01346492767334
+======================================
+Epoch: 33/200, discriminator loss: 0.41885265707969666, generator loss: 10.993778228759766
+======================================
+
+
+batch: 0, discriminator loss: 0.03535725176334381, generator loss: 9.498794555664062
+batch: 20, discriminator loss: 0.27495694160461426, generator loss: 8.676788330078125
+batch: 40, discriminator loss: 0.16010913252830505, generator loss: 9.119362831115723
+batch: 60, discriminator loss: 0.06348955631256104, generator loss: 3.868040084838867
+batch: 80, discriminator loss: 0.008927918039262295, generator loss: 7.201388359069824
+======================================
+Epoch: 34/200, discriminator loss: 0.03249455243349075, generator loss: 5.477861404418945
+======================================
+
+
+batch: 0, discriminator loss: 0.03190513327717781, generator loss: 4.586723327636719
+batch: 20, discriminator loss: 0.11145948618650436, generator loss: 6.548534393310547
+batch: 40, discriminator loss: 0.10982789099216461, generator loss: 5.16099739074707
+batch: 60, discriminator loss: 0.09223663061857224, generator loss: 5.32825231552124
+batch: 80, discriminator loss: 0.04937116056680679, generator loss: 5.897049427032471
+======================================
+Epoch: 35/200, discriminator loss: 0.057752951979637146, generator loss: 8.885719299316406
+======================================
+
+
+batch: 0, discriminator loss: 0.2506347596645355, generator loss: 9.090217590332031
+batch: 20, discriminator loss: 0.16424667835235596, generator loss: 9.360050201416016
+batch: 40, discriminator loss: 0.12971466779708862, generator loss: 5.477475166320801
+batch: 60, discriminator loss: 0.06912568211555481, generator loss: 7.139379978179932
+batch: 80, discriminator loss: 0.15421152114868164, generator loss: 4.587251663208008
+======================================
+Epoch: 36/200, discriminator loss: 0.03958651423454285, generator loss: 5.102132797241211
+======================================
+
+
+batch: 0, discriminator loss: 0.1832876205444336, generator loss: 4.134434223175049
+batch: 20, discriminator loss: 0.08743233233690262, generator loss: 4.601339340209961
+batch: 40, discriminator loss: 0.06360899657011032, generator loss: 4.1156535148620605
+batch: 60, discriminator loss: 0.06694834679365158, generator loss: 5.7591962814331055
+batch: 80, discriminator loss: 0.05592979118227959, generator loss: 5.941598892211914
+======================================
+Epoch: 37/200, discriminator loss: 0.015784475952386856, generator loss: 7.984125137329102
+======================================
+
+
+batch: 0, discriminator loss: 0.12757126986980438, generator loss: 5.700309753417969
+batch: 20, discriminator loss: 0.048871204257011414, generator loss: 4.247194766998291
+batch: 40, discriminator loss: 0.12378562986850739, generator loss: 5.166252613067627
+batch: 60, discriminator loss: 0.018884629011154175, generator loss: 9.04378890991211
+batch: 80, discriminator loss: 0.010055243968963623, generator loss: 10.01807689666748
+======================================
+Epoch: 38/200, discriminator loss: 0.04950098693370819, generator loss: 6.393681526184082
+======================================
+
+
+batch: 0, discriminator loss: 0.024051230400800705, generator loss: 7.449860095977783
+batch: 20, discriminator loss: 0.05037030205130577, generator loss: 5.644481658935547
+batch: 40, discriminator loss: 0.17258787155151367, generator loss: 4.859671592712402
+batch: 60, discriminator loss: 0.03559669107198715, generator loss: 4.637607097625732
+batch: 80, discriminator loss: 0.0885816216468811, generator loss: 5.1216936111450195
+======================================
+Epoch: 39/200, discriminator loss: 0.2454199343919754, generator loss: 1.5656534433364868
+======================================
+
+
+batch: 0, discriminator loss: 0.6104996204376221, generator loss: 3.6138625144958496
+batch: 20, discriminator loss: 0.496006041765213, generator loss: 5.632046222686768
+batch: 40, discriminator loss: 0.6251538395881653, generator loss: 7.812593460083008
+batch: 60, discriminator loss: 0.03534678742289543, generator loss: 9.094564437866211
+batch: 80, discriminator loss: 1.105517864227295, generator loss: 5.773958683013916
+======================================
+Epoch: 40/200, discriminator loss: 0.024428129196166992, generator loss: 6.193138122558594
+======================================
+
+
+batch: 0, discriminator loss: 0.023575518280267715, generator loss: 6.807109832763672
+batch: 20, discriminator loss: 0.21014060080051422, generator loss: 3.100203514099121
+batch: 40, discriminator loss: 0.03714384138584137, generator loss: 7.170558929443359
+batch: 60, discriminator loss: 0.24335551261901855, generator loss: 8.891520500183105
+batch: 80, discriminator loss: 0.07314940541982651, generator loss: 4.745128631591797
+======================================
+Epoch: 41/200, discriminator loss: 0.04766117036342621, generator loss: 5.416804313659668
+======================================
+
+
+batch: 0, discriminator loss: 0.19985996186733246, generator loss: 3.5237014293670654
+batch: 20, discriminator loss: 0.20473425090312958, generator loss: 5.657262325286865
+batch: 40, discriminator loss: 0.003449257230386138, generator loss: 9.885883331298828
+batch: 60, discriminator loss: 0.09815444052219391, generator loss: 4.066465377807617
+batch: 80, discriminator loss: 0.10892319679260254, generator loss: 5.5608625411987305
+======================================
+Epoch: 42/200, discriminator loss: 0.5111182928085327, generator loss: 2.1811296939849854
+======================================
+
+
+batch: 0, discriminator loss: 0.4983406066894531, generator loss: 3.679616689682007
+batch: 20, discriminator loss: 0.515503466129303, generator loss: 6.169288635253906
+batch: 40, discriminator loss: 0.20990321040153503, generator loss: 6.267797470092773
+batch: 60, discriminator loss: 0.18907487392425537, generator loss: 6.285167694091797
+batch: 80, discriminator loss: 0.1881852149963379, generator loss: 3.664003610610962
+======================================
+Epoch: 43/200, discriminator loss: 0.28018125891685486, generator loss: 11.700933456420898
+======================================
+
+
+batch: 0, discriminator loss: 0.08967326581478119, generator loss: 9.697498321533203
+batch: 20, discriminator loss: 0.09892220795154572, generator loss: 4.305727005004883
+batch: 40, discriminator loss: 0.07592563331127167, generator loss: 6.127516269683838
+batch: 60, discriminator loss: 0.04452817514538765, generator loss: 6.92999792098999
+batch: 80, discriminator loss: 0.03158771991729736, generator loss: 5.488091945648193
+======================================
+Epoch: 44/200, discriminator loss: 0.18151693046092987, generator loss: 6.68684196472168
+======================================
+
+
+batch: 0, discriminator loss: 0.020183086395263672, generator loss: 6.777683258056641
+batch: 20, discriminator loss: 0.0036987238563597202, generator loss: 9.892156600952148
+batch: 40, discriminator loss: 0.08919478952884674, generator loss: 4.67429780960083
+batch: 60, discriminator loss: 0.023767337203025818, generator loss: 6.122289180755615
+batch: 80, discriminator loss: 0.021752312779426575, generator loss: 9.323050498962402
+======================================
+Epoch: 45/200, discriminator loss: 0.07918906211853027, generator loss: 5.3007683753967285
+======================================
+
+
+batch: 0, discriminator loss: 0.0431683287024498, generator loss: 5.626400470733643
+batch: 20, discriminator loss: 0.03394438326358795, generator loss: 9.885838508605957
+batch: 40, discriminator loss: 0.07675719261169434, generator loss: 5.501715660095215
+batch: 60, discriminator loss: 0.033957380801439285, generator loss: 6.878171443939209
+batch: 80, discriminator loss: 0.07191190123558044, generator loss: 7.742409706115723
+======================================
+Epoch: 46/200, discriminator loss: 0.06127641350030899, generator loss: 4.867302894592285
+======================================
+
+
+batch: 0, discriminator loss: 0.5380936861038208, generator loss: 4.6761860847473145
+batch: 20, discriminator loss: 1.2682030200958252, generator loss: 17.288715362548828
+batch: 40, discriminator loss: 0.577488124370575, generator loss: 3.675929546356201
+batch: 60, discriminator loss: 0.03550861403346062, generator loss: 7.892147064208984
+batch: 80, discriminator loss: 0.06368976831436157, generator loss: 6.210116863250732
+======================================
+Epoch: 47/200, discriminator loss: 0.03453393280506134, generator loss: 6.1907453536987305
+======================================
+
+
+batch: 0, discriminator loss: 0.14984305202960968, generator loss: 6.5886406898498535
+batch: 20, discriminator loss: 0.09796467423439026, generator loss: 5.589890480041504
+batch: 40, discriminator loss: 0.06836159527301788, generator loss: 4.816335201263428
+batch: 60, discriminator loss: 0.1532696634531021, generator loss: 5.027798652648926
+batch: 80, discriminator loss: 0.100998654961586, generator loss: 3.8896331787109375
+======================================
+Epoch: 48/200, discriminator loss: 0.48436444997787476, generator loss: 6.87363338470459
+======================================
+
+
+batch: 0, discriminator loss: 0.24413664638996124, generator loss: 7.2354607582092285
+batch: 20, discriminator loss: 0.6172680258750916, generator loss: 8.380183219909668
+batch: 40, discriminator loss: 0.09295755624771118, generator loss: 3.786782741546631
+batch: 60, discriminator loss: 0.0842624306678772, generator loss: 6.6633620262146
+batch: 80, discriminator loss: 0.02665761485695839, generator loss: 6.3596978187561035
+======================================
+Epoch: 49/200, discriminator loss: 0.1051894873380661, generator loss: 6.248196125030518
+======================================
+
+
+batch: 0, discriminator loss: 0.06640790402889252, generator loss: 4.616600036621094
+batch: 20, discriminator loss: 0.24676668643951416, generator loss: 7.459749698638916
+batch: 40, discriminator loss: 0.1584080159664154, generator loss: 10.138304710388184
+batch: 60, discriminator loss: 0.17688199877738953, generator loss: 5.747893333435059
+batch: 80, discriminator loss: 0.10083381086587906, generator loss: 7.514864921569824
+======================================
+Epoch: 50/200, discriminator loss: 0.10666348040103912, generator loss: 3.610647439956665
+======================================
+
+
+batch: 0, discriminator loss: 0.05454001575708389, generator loss: 3.959982395172119
+batch: 20, discriminator loss: 0.4643076956272125, generator loss: 8.002866744995117
+batch: 40, discriminator loss: 0.040399402379989624, generator loss: 6.281709671020508
+batch: 60, discriminator loss: 0.07769699394702911, generator loss: 4.20865535736084
+batch: 80, discriminator loss: 0.2896791398525238, generator loss: 6.383681297302246
+======================================
+Epoch: 51/200, discriminator loss: 0.024335265159606934, generator loss: 6.636996746063232
+======================================
+
+
+batch: 0, discriminator loss: 0.03352034464478493, generator loss: 7.325300216674805
+batch: 20, discriminator loss: 0.10011094808578491, generator loss: 3.9302477836608887
+batch: 40, discriminator loss: 0.31477829813957214, generator loss: 2.233816623687744
+batch: 60, discriminator loss: 0.27019035816192627, generator loss: 4.306097030639648
+batch: 80, discriminator loss: 0.10262784361839294, generator loss: 4.874504566192627
+======================================
+Epoch: 52/200, discriminator loss: 0.031236723065376282, generator loss: 6.303037166595459
+======================================
+
+
+batch: 0, discriminator loss: 0.003252455499023199, generator loss: 8.689581871032715
+batch: 20, discriminator loss: 0.39275041222572327, generator loss: 6.402979373931885
+batch: 40, discriminator loss: 0.0789504125714302, generator loss: 5.1380109786987305
+batch: 60, discriminator loss: 0.22137463092803955, generator loss: 3.48488450050354
+batch: 80, discriminator loss: 0.016007831320166588, generator loss: 6.085100173950195
+======================================
+Epoch: 53/200, discriminator loss: 0.0894763320684433, generator loss: 5.432987213134766
+======================================
+
+
+batch: 0, discriminator loss: 0.1477888971567154, generator loss: 5.687061309814453
+batch: 20, discriminator loss: 0.05831911042332649, generator loss: 4.465501308441162
+batch: 40, discriminator loss: 0.05315133556723595, generator loss: 5.216460704803467
+batch: 60, discriminator loss: 0.472423791885376, generator loss: 2.985726833343506
+batch: 80, discriminator loss: 0.08770783245563507, generator loss: 4.551516056060791
+======================================
+Epoch: 54/200, discriminator loss: 0.09666486084461212, generator loss: 4.953152656555176
+======================================
+
+
+batch: 0, discriminator loss: 0.05133260041475296, generator loss: 5.985769271850586
+batch: 20, discriminator loss: 0.12943005561828613, generator loss: 4.269362449645996
+batch: 40, discriminator loss: 0.0952957347035408, generator loss: 5.293403148651123
+batch: 60, discriminator loss: 0.07362288981676102, generator loss: 5.279768943786621
+batch: 80, discriminator loss: 0.2546786963939667, generator loss: 4.253286838531494
+======================================
+Epoch: 55/200, discriminator loss: 0.05704307183623314, generator loss: 8.57650375366211
+======================================
+
+
+batch: 0, discriminator loss: 0.05742960050702095, generator loss: 8.526663780212402
+batch: 20, discriminator loss: 0.08870846033096313, generator loss: 6.863504409790039
+batch: 40, discriminator loss: 2.00897216796875, generator loss: 10.055964469909668
+batch: 60, discriminator loss: 0.49106425046920776, generator loss: 4.918393135070801
+batch: 80, discriminator loss: 0.12225337326526642, generator loss: 5.156605243682861
+======================================
+Epoch: 56/200, discriminator loss: 0.014823662117123604, generator loss: 6.325939178466797
+======================================
+
+
+batch: 0, discriminator loss: 0.07226663082838058, generator loss: 5.118006706237793
+batch: 20, discriminator loss: 0.7115399837493896, generator loss: 4.306475639343262
+batch: 40, discriminator loss: 0.7593645453453064, generator loss: 4.045248508453369
+batch: 60, discriminator loss: 0.03509857505559921, generator loss: 5.4422221183776855
+batch: 80, discriminator loss: 0.015571873635053635, generator loss: 5.705434799194336
+======================================
+Epoch: 57/200, discriminator loss: 0.12453150749206543, generator loss: 3.364051580429077
+======================================
+
+
+batch: 0, discriminator loss: 0.20836865901947021, generator loss: 3.760403633117676
+batch: 20, discriminator loss: 0.10130147635936737, generator loss: 5.65029239654541
+batch: 40, discriminator loss: 0.2077210247516632, generator loss: 14.24556827545166
+batch: 60, discriminator loss: 0.0313887856900692, generator loss: 6.086919784545898
+batch: 80, discriminator loss: 0.1533152163028717, generator loss: 5.105973243713379
+======================================
+Epoch: 58/200, discriminator loss: 0.08072292804718018, generator loss: 3.9427995681762695
+======================================
+
+
+batch: 0, discriminator loss: 0.027777373790740967, generator loss: 5.863712787628174
+batch: 20, discriminator loss: 0.1604444980621338, generator loss: 5.945364952087402
+batch: 40, discriminator loss: 0.270862877368927, generator loss: 3.178591728210449
+batch: 60, discriminator loss: 0.037472568452358246, generator loss: 4.794512748718262
+batch: 80, discriminator loss: 0.1144496500492096, generator loss: 4.836154460906982
+======================================
+Epoch: 59/200, discriminator loss: 0.05788155645132065, generator loss: 4.700868129730225
+======================================
+
+
+batch: 0, discriminator loss: 0.21958185732364655, generator loss: 3.7884464263916016
+batch: 20, discriminator loss: 0.03319726139307022, generator loss: 5.392861843109131
+batch: 40, discriminator loss: 0.0728287473320961, generator loss: 6.511836051940918
+batch: 60, discriminator loss: 0.07923109829425812, generator loss: 6.554677486419678
+batch: 80, discriminator loss: 0.008968247100710869, generator loss: 7.691917896270752
+======================================
+Epoch: 60/200, discriminator loss: 0.1882695108652115, generator loss: 8.5869722366333
+======================================
+
+
+batch: 0, discriminator loss: 0.33449727296829224, generator loss: 8.039259910583496
+batch: 20, discriminator loss: 0.21605157852172852, generator loss: 8.540928840637207
+batch: 40, discriminator loss: 0.19147494435310364, generator loss: 4.66897439956665
+batch: 60, discriminator loss: 0.06380787491798401, generator loss: 2.763268232345581
+batch: 80, discriminator loss: 0.04609130695462227, generator loss: 7.540894031524658
+======================================
+Epoch: 61/200, discriminator loss: 0.1011367216706276, generator loss: 6.447296619415283
+======================================
+
+
+batch: 0, discriminator loss: 0.11121363937854767, generator loss: 5.975823402404785
+batch: 20, discriminator loss: 0.19604280591011047, generator loss: 7.514798164367676
+batch: 40, discriminator loss: 0.05899433791637421, generator loss: 5.57327127456665
+batch: 60, discriminator loss: 0.33218735456466675, generator loss: 3.6478757858276367
+batch: 80, discriminator loss: 0.12424371391534805, generator loss: 5.374512195587158
+======================================
+Epoch: 62/200, discriminator loss: 0.15785294771194458, generator loss: 9.068437576293945
+======================================
+
+
+batch: 0, discriminator loss: 0.08291085064411163, generator loss: 8.44505500793457
+batch: 20, discriminator loss: 0.0041892994195222855, generator loss: 9.335911750793457
+batch: 40, discriminator loss: 0.0067640929482877254, generator loss: 5.129066467285156
+batch: 60, discriminator loss: 0.6412691473960876, generator loss: 8.374155044555664
+batch: 80, discriminator loss: 0.04587811976671219, generator loss: 5.7575273513793945
+======================================
+Epoch: 63/200, discriminator loss: 0.18877124786376953, generator loss: 11.192646980285645
+======================================
+
+
+batch: 0, discriminator loss: 0.05228571966290474, generator loss: 11.623048782348633
+batch: 20, discriminator loss: 0.018666138872504234, generator loss: 9.238662719726562
+batch: 40, discriminator loss: 0.2193703055381775, generator loss: 7.239465236663818
+batch: 60, discriminator loss: 0.6933004260063171, generator loss: 8.623722076416016
+batch: 80, discriminator loss: 0.7991248965263367, generator loss: 16.14208221435547
+======================================
+Epoch: 64/200, discriminator loss: 0.12091998755931854, generator loss: 4.041151523590088
+======================================
+
+
+batch: 0, discriminator loss: 0.03254605829715729, generator loss: 5.96476936340332
+batch: 20, discriminator loss: 0.027592282742261887, generator loss: 8.771655082702637
+batch: 40, discriminator loss: 0.2440081536769867, generator loss: 3.931929588317871
+batch: 60, discriminator loss: 0.04327001795172691, generator loss: 6.248727321624756
+batch: 80, discriminator loss: 0.11083255708217621, generator loss: 5.067512035369873
+======================================
+Epoch: 65/200, discriminator loss: 0.11196056008338928, generator loss: 8.81398868560791
+======================================
+
+
+batch: 0, discriminator loss: 0.02653266116976738, generator loss: 7.7836456298828125
+batch: 20, discriminator loss: 0.09502986818552017, generator loss: 7.607717990875244
+batch: 40, discriminator loss: 0.11651391535997391, generator loss: 4.216710090637207
+batch: 60, discriminator loss: 0.07055868953466415, generator loss: 3.9066247940063477
+batch: 80, discriminator loss: 0.05572880804538727, generator loss: 7.194186687469482
+======================================
+Epoch: 66/200, discriminator loss: 0.05168934538960457, generator loss: 6.583766460418701
+======================================
+
+
+batch: 0, discriminator loss: 0.20491378009319305, generator loss: 6.086970329284668
+batch: 20, discriminator loss: 0.21716754138469696, generator loss: 12.863129615783691
+batch: 40, discriminator loss: 0.5748773813247681, generator loss: 4.852449893951416
+batch: 60, discriminator loss: 0.0739368423819542, generator loss: 5.07111120223999
+batch: 80, discriminator loss: 0.14938324689865112, generator loss: 4.176201820373535
+======================================
+Epoch: 67/200, discriminator loss: 0.1546524167060852, generator loss: 4.322882175445557
+======================================
+
+
+batch: 0, discriminator loss: 0.11173324286937714, generator loss: 5.223743438720703
+batch: 20, discriminator loss: 0.33804938197135925, generator loss: 4.463040828704834
+batch: 40, discriminator loss: 0.6667493581771851, generator loss: 4.582913398742676
+batch: 60, discriminator loss: 1.0196293592453003, generator loss: 3.8797693252563477
+batch: 80, discriminator loss: 1.727656364440918, generator loss: 2.7863080501556396
+======================================
+Epoch: 68/200, discriminator loss: 0.021235637366771698, generator loss: 11.840096473693848
+======================================
+
+
+batch: 0, discriminator loss: 0.17443430423736572, generator loss: 8.568977355957031
+batch: 20, discriminator loss: 0.015673862770199776, generator loss: 8.968186378479004
+batch: 40, discriminator loss: 0.058881498873233795, generator loss: 4.963718414306641
+batch: 60, discriminator loss: 0.2302389293909073, generator loss: 5.436753749847412
+batch: 80, discriminator loss: 0.11562590301036835, generator loss: 4.713947772979736
+======================================
+Epoch: 69/200, discriminator loss: 0.1512555480003357, generator loss: 3.755377769470215
+======================================
+
+
+batch: 0, discriminator loss: 0.06633087992668152, generator loss: 5.143856525421143
+batch: 20, discriminator loss: 0.055661171674728394, generator loss: 4.445123195648193
+batch: 40, discriminator loss: 0.0310603566467762, generator loss: 5.8561625480651855
+batch: 60, discriminator loss: 0.050568945705890656, generator loss: 7.383850574493408
+batch: 80, discriminator loss: 0.007154395338147879, generator loss: 8.927677154541016
+======================================
+Epoch: 70/200, discriminator loss: 0.04169803485274315, generator loss: 4.842703819274902
+======================================
+
+
+batch: 0, discriminator loss: 0.0519268661737442, generator loss: 4.773088455200195
+batch: 20, discriminator loss: 0.2819620668888092, generator loss: 3.2784128189086914
+batch: 40, discriminator loss: 0.08907483518123627, generator loss: 9.012248992919922
+batch: 60, discriminator loss: 0.130996435880661, generator loss: 4.582813739776611
+batch: 80, discriminator loss: 0.07822475582361221, generator loss: 4.821603298187256
+======================================
+Epoch: 71/200, discriminator loss: 0.2977460026741028, generator loss: 5.263754367828369
+======================================
+
+
+batch: 0, discriminator loss: 0.3836469352245331, generator loss: 3.0165493488311768
+batch: 20, discriminator loss: 0.09838119894266129, generator loss: 11.913493156433105
+batch: 40, discriminator loss: 0.2086760699748993, generator loss: 4.9175543785095215
+batch: 60, discriminator loss: 0.011999905109405518, generator loss: 8.594152450561523
+batch: 80, discriminator loss: 0.015644537284970284, generator loss: 8.395991325378418
+======================================
+Epoch: 72/200, discriminator loss: 0.44707930088043213, generator loss: 3.7407097816467285
+======================================
+
+
+batch: 0, discriminator loss: 0.283403605222702, generator loss: 4.480332851409912
+batch: 20, discriminator loss: 0.005796145647764206, generator loss: 8.732982635498047
+batch: 40, discriminator loss: 0.28791216015815735, generator loss: 3.6679673194885254
+batch: 60, discriminator loss: 0.08406348526477814, generator loss: 5.564484596252441
+batch: 80, discriminator loss: 0.5602747201919556, generator loss: 1.8403897285461426
+======================================
+Epoch: 73/200, discriminator loss: 0.02776222862303257, generator loss: 6.514502048492432
+======================================
+
+
+batch: 0, discriminator loss: 0.041242580860853195, generator loss: 5.757321357727051
+batch: 20, discriminator loss: 0.8061224222183228, generator loss: 3.808131694793701
+batch: 40, discriminator loss: 0.006292826496064663, generator loss: 8.270689964294434
+batch: 60, discriminator loss: 0.15836095809936523, generator loss: 5.935896396636963
+batch: 80, discriminator loss: 0.3097507357597351, generator loss: 4.228072166442871
+======================================
+Epoch: 74/200, discriminator loss: 0.03597287833690643, generator loss: 7.417471408843994
+======================================
+
+
+batch: 0, discriminator loss: 0.044039253145456314, generator loss: 6.915802478790283
+batch: 20, discriminator loss: 0.26536983251571655, generator loss: 4.01440954208374
+batch: 40, discriminator loss: 0.33055710792541504, generator loss: 6.137540340423584
+batch: 60, discriminator loss: 0.0025231221225112677, generator loss: 9.639220237731934
+batch: 80, discriminator loss: 0.15668901801109314, generator loss: 5.712125778198242
+======================================
+Epoch: 75/200, discriminator loss: 0.011852951720356941, generator loss: 7.431068420410156
+======================================
+
+
+batch: 0, discriminator loss: 0.014985955320298672, generator loss: 7.044638633728027
+batch: 20, discriminator loss: 0.24340490996837616, generator loss: 0.9203118085861206
+batch: 40, discriminator loss: 0.007564881816506386, generator loss: 8.017400741577148
+batch: 60, discriminator loss: 0.7948446273803711, generator loss: 1.7967519760131836
+batch: 80, discriminator loss: 0.08609755337238312, generator loss: 3.363696336746216
+======================================
+Epoch: 76/200, discriminator loss: 0.17811298370361328, generator loss: 5.474351406097412
+======================================
+
+
+batch: 0, discriminator loss: 1.5200660228729248, generator loss: 3.0315799713134766
+batch: 20, discriminator loss: 0.158336341381073, generator loss: 3.555098056793213
+batch: 40, discriminator loss: 0.11230496317148209, generator loss: 3.342297315597534
+batch: 60, discriminator loss: 0.3413199186325073, generator loss: 4.966391086578369
+batch: 80, discriminator loss: 0.685133159160614, generator loss: 9.30581283569336
+======================================
+Epoch: 77/200, discriminator loss: 0.07729911804199219, generator loss: 5.00092887878418
+======================================
+
+
+batch: 0, discriminator loss: 0.016035931184887886, generator loss: 6.688150882720947
+batch: 20, discriminator loss: 0.4278596341609955, generator loss: 4.100776672363281
+batch: 40, discriminator loss: 0.11343592405319214, generator loss: 4.4978179931640625
+batch: 60, discriminator loss: 0.008067981339991093, generator loss: 7.301216125488281
+batch: 80, discriminator loss: 0.22340835630893707, generator loss: 3.61324143409729
+======================================
+Epoch: 78/200, discriminator loss: 0.3088069260120392, generator loss: 4.057129383087158
+======================================
+
+
+batch: 0, discriminator loss: 0.27346959710121155, generator loss: 4.430973529815674
+batch: 20, discriminator loss: 0.1498987078666687, generator loss: 4.371177673339844
+batch: 40, discriminator loss: 0.09800906479358673, generator loss: 6.545308589935303
+batch: 60, discriminator loss: 0.23988965153694153, generator loss: 3.8633270263671875
+batch: 80, discriminator loss: 0.07480475306510925, generator loss: 5.426261901855469
+======================================
+Epoch: 79/200, discriminator loss: 0.3286798298358917, generator loss: 4.541168212890625
+======================================
+
+
+batch: 0, discriminator loss: 0.07095304131507874, generator loss: 8.617399215698242
+batch: 20, discriminator loss: 0.02100517228245735, generator loss: 6.180964946746826
+batch: 40, discriminator loss: 0.05905389040708542, generator loss: 5.879373073577881
+batch: 60, discriminator loss: 0.1774589866399765, generator loss: 2.9572553634643555
+batch: 80, discriminator loss: 0.4570166766643524, generator loss: 4.3545732498168945
+======================================
+Epoch: 80/200, discriminator loss: 0.9667655229568481, generator loss: 2.674281120300293
+======================================
+
+
+batch: 0, discriminator loss: 0.10221430659294128, generator loss: 6.110881805419922
+batch: 20, discriminator loss: 0.16384758055210114, generator loss: 3.71724796295166
+batch: 40, discriminator loss: 0.14098630845546722, generator loss: 3.6642017364501953
+batch: 60, discriminator loss: 0.4657161235809326, generator loss: 4.545287609100342
+batch: 80, discriminator loss: 0.11757282167673111, generator loss: 5.666529655456543
+======================================
+Epoch: 81/200, discriminator loss: 0.10510779917240143, generator loss: 6.687579154968262
+======================================
+
+
+batch: 0, discriminator loss: 0.009328866377472878, generator loss: 8.124266624450684
+batch: 20, discriminator loss: 0.8702484369277954, generator loss: 8.253432273864746
+batch: 40, discriminator loss: 0.0171949602663517, generator loss: 9.251174926757812
+batch: 60, discriminator loss: 0.007934425957500935, generator loss: 7.077600002288818
+batch: 80, discriminator loss: 0.14307907223701477, generator loss: 3.000206708908081
+======================================
+Epoch: 82/200, discriminator loss: 0.03707301244139671, generator loss: 7.718191146850586
+======================================
+
+
+batch: 0, discriminator loss: 0.11644387990236282, generator loss: 7.382933616638184
+batch: 20, discriminator loss: 0.19694849848747253, generator loss: 4.074740886688232
+batch: 40, discriminator loss: 0.04818814992904663, generator loss: 4.587967872619629
+batch: 60, discriminator loss: 0.021700702607631683, generator loss: 5.712637424468994
+batch: 80, discriminator loss: 0.21711856126785278, generator loss: 3.8618335723876953
+======================================
+Epoch: 83/200, discriminator loss: 0.2741136848926544, generator loss: 4.924378395080566
+======================================
+
+
+batch: 0, discriminator loss: 0.07957380264997482, generator loss: 7.261256217956543
+batch: 20, discriminator loss: 0.029972421005368233, generator loss: 5.090098857879639
+batch: 40, discriminator loss: 0.4616471827030182, generator loss: 5.474123954772949
+batch: 60, discriminator loss: 0.34633204340934753, generator loss: 7.256495475769043
+batch: 80, discriminator loss: 0.054446473717689514, generator loss: 9.47354507446289
+======================================
+Epoch: 84/200, discriminator loss: 0.0262181144207716, generator loss: 6.041268348693848
+======================================
+
+
+batch: 0, discriminator loss: 0.026663172990083694, generator loss: 6.856267929077148
+batch: 20, discriminator loss: 0.028892485424876213, generator loss: 6.530205249786377
+batch: 40, discriminator loss: 0.27212902903556824, generator loss: 4.840179443359375
+batch: 60, discriminator loss: 0.17526760697364807, generator loss: 3.8393642902374268
+batch: 80, discriminator loss: 0.3391859531402588, generator loss: 6.3204450607299805
+======================================
+Epoch: 85/200, discriminator loss: 0.24064753949642181, generator loss: 4.008761405944824
+======================================
+
+
+batch: 0, discriminator loss: 0.04951585829257965, generator loss: 6.289333343505859
+batch: 20, discriminator loss: 0.3307608664035797, generator loss: 2.909820318222046
+batch: 40, discriminator loss: 0.0678069069981575, generator loss: 6.10643196105957
+batch: 60, discriminator loss: 0.1846248060464859, generator loss: 2.813850164413452
+batch: 80, discriminator loss: 0.22830793261528015, generator loss: 8.502910614013672
+======================================
+Epoch: 86/200, discriminator loss: 0.02935541421175003, generator loss: 5.485635280609131
+======================================
+
+
+batch: 0, discriminator loss: 0.46063023805618286, generator loss: 3.2425646781921387
+batch: 20, discriminator loss: 0.14564821124076843, generator loss: 3.867841958999634
+batch: 40, discriminator loss: 0.0506775863468647, generator loss: 6.1708221435546875
+batch: 60, discriminator loss: 0.06826566159725189, generator loss: 5.967385292053223
+batch: 80, discriminator loss: 0.3278680145740509, generator loss: 3.5312294960021973
+======================================
+Epoch: 87/200, discriminator loss: 0.19322827458381653, generator loss: 3.3936216831207275
+======================================
+
+
+batch: 0, discriminator loss: 0.2194567620754242, generator loss: 4.671593189239502
+batch: 20, discriminator loss: 0.04013463109731674, generator loss: 6.187295436859131
+batch: 40, discriminator loss: 0.05785403400659561, generator loss: 3.1417994499206543
+batch: 60, discriminator loss: 0.165775865316391, generator loss: 4.260186672210693
+batch: 80, discriminator loss: 0.36651989817619324, generator loss: 3.8779115676879883
+======================================
+Epoch: 88/200, discriminator loss: 0.006683001294732094, generator loss: 7.363894462585449
+======================================
+
+
+batch: 0, discriminator loss: 0.04481982812285423, generator loss: 6.826230049133301
+batch: 20, discriminator loss: 0.035781197249889374, generator loss: 7.625161170959473
+batch: 40, discriminator loss: 0.09625163674354553, generator loss: 4.500767707824707
+batch: 60, discriminator loss: 0.930040180683136, generator loss: 1.775194764137268
+batch: 80, discriminator loss: 0.011577911674976349, generator loss: 6.173171520233154
+======================================
+Epoch: 89/200, discriminator loss: 0.08790042996406555, generator loss: 5.874017715454102
+======================================
+
+
+batch: 0, discriminator loss: 0.07590724527835846, generator loss: 4.632454872131348
+batch: 20, discriminator loss: 0.057338327169418335, generator loss: 5.861085414886475
+batch: 40, discriminator loss: 0.08770225942134857, generator loss: 2.581202745437622
+batch: 60, discriminator loss: 0.4155041575431824, generator loss: 12.680059432983398
+batch: 80, discriminator loss: 0.13887427747249603, generator loss: 5.648506164550781
+======================================
+Epoch: 90/200, discriminator loss: 0.1796024739742279, generator loss: 4.8878912925720215
+======================================
+
+
+batch: 0, discriminator loss: 0.677621603012085, generator loss: 3.0126941204071045
+batch: 20, discriminator loss: 0.07356859743595123, generator loss: 8.09361743927002
+batch: 40, discriminator loss: 0.1434771716594696, generator loss: 3.7698018550872803
+batch: 60, discriminator loss: 0.6028040647506714, generator loss: 5.30483865737915
+batch: 80, discriminator loss: 0.08199029415845871, generator loss: 10.349432945251465
+======================================
+Epoch: 91/200, discriminator loss: 0.07154315710067749, generator loss: 3.349151849746704
+======================================
+
+
+batch: 0, discriminator loss: 0.27688848972320557, generator loss: 2.9180867671966553
+batch: 20, discriminator loss: 0.20068177580833435, generator loss: 5.706794261932373
+batch: 40, discriminator loss: 0.052068810909986496, generator loss: 9.677967071533203
+batch: 60, discriminator loss: 0.029999127611517906, generator loss: 5.562553405761719
+batch: 80, discriminator loss: 0.03478432446718216, generator loss: 5.763874053955078
+======================================
+Epoch: 92/200, discriminator loss: 0.18000803887844086, generator loss: 4.0219807624816895
+======================================
+
+
+batch: 0, discriminator loss: 0.46433764696121216, generator loss: 4.460034370422363
+batch: 20, discriminator loss: 0.21106424927711487, generator loss: 5.976505756378174
+batch: 40, discriminator loss: 0.030315589159727097, generator loss: 8.868206024169922
+batch: 60, discriminator loss: 0.03294293209910393, generator loss: 3.9261958599090576
+batch: 80, discriminator loss: 0.061844415962696075, generator loss: 4.232037544250488
+======================================
+Epoch: 93/200, discriminator loss: 0.06061026081442833, generator loss: 4.5226149559021
+======================================
+
+
+batch: 0, discriminator loss: 0.07050961256027222, generator loss: 3.9739201068878174
+batch: 20, discriminator loss: 0.05492106080055237, generator loss: 5.574397563934326
+batch: 40, discriminator loss: 0.024631734937429428, generator loss: 6.381007194519043
+batch: 60, discriminator loss: 0.11403930187225342, generator loss: 5.440230369567871
+batch: 80, discriminator loss: 0.17569276690483093, generator loss: 4.627818584442139
+======================================
+Epoch: 94/200, discriminator loss: 0.36995550990104675, generator loss: 8.836064338684082
+======================================
+
+
+batch: 0, discriminator loss: 0.06001710146665573, generator loss: 5.142727851867676
+batch: 20, discriminator loss: 0.0927368700504303, generator loss: 5.180574417114258
+batch: 40, discriminator loss: 0.019429724663496017, generator loss: 8.404075622558594
+batch: 60, discriminator loss: 0.12191009521484375, generator loss: 4.803822040557861
+batch: 80, discriminator loss: 0.2536858022212982, generator loss: 4.490236282348633
+======================================
+Epoch: 95/200, discriminator loss: 0.30869168043136597, generator loss: 3.713759422302246
+======================================
+
+
+batch: 0, discriminator loss: 0.26436400413513184, generator loss: 3.854950428009033
+batch: 20, discriminator loss: 0.03470904752612114, generator loss: 6.790309429168701
+batch: 40, discriminator loss: 0.030287202447652817, generator loss: 10.922628402709961
+batch: 60, discriminator loss: 0.06889515370130539, generator loss: 11.56689739227295
+batch: 80, discriminator loss: 0.013912834227085114, generator loss: 8.084826469421387
+======================================
+Epoch: 96/200, discriminator loss: 0.17239822447299957, generator loss: 5.3041486740112305
+======================================
+
+
+batch: 0, discriminator loss: 0.13052912056446075, generator loss: 3.8667640686035156
+batch: 20, discriminator loss: 0.2512314021587372, generator loss: 4.542877674102783
+batch: 40, discriminator loss: 0.006936501711606979, generator loss: 13.37914752960205
+batch: 60, discriminator loss: 0.03863226994872093, generator loss: 5.120599269866943
+batch: 80, discriminator loss: 0.11812926828861237, generator loss: 4.362237930297852
+======================================
+Epoch: 97/200, discriminator loss: 0.015716398134827614, generator loss: 6.865442276000977
+======================================
+
+
+batch: 0, discriminator loss: 0.09206295013427734, generator loss: 3.028822422027588
+batch: 20, discriminator loss: 0.07096785306930542, generator loss: 4.420802593231201
+batch: 40, discriminator loss: 0.11121463775634766, generator loss: 3.240485191345215
+batch: 60, discriminator loss: 0.18771818280220032, generator loss: 3.953084945678711
+batch: 80, discriminator loss: 0.008199281059205532, generator loss: 8.382767677307129
+======================================
+Epoch: 98/200, discriminator loss: 0.012393848970532417, generator loss: 6.292135715484619
+======================================
+
+
+batch: 0, discriminator loss: 0.025312179699540138, generator loss: 5.330148220062256
+batch: 20, discriminator loss: 0.3233785331249237, generator loss: 4.381717205047607
+batch: 40, discriminator loss: 0.05548131465911865, generator loss: 6.574069023132324
+batch: 60, discriminator loss: 0.3696889579296112, generator loss: 2.9409146308898926
+batch: 80, discriminator loss: 0.4157484471797943, generator loss: 7.206845283508301
+======================================
+Epoch: 99/200, discriminator loss: 0.37532007694244385, generator loss: 6.788602352142334
+======================================
+
+
+batch: 0, discriminator loss: 0.04243204742670059, generator loss: 7.299061298370361
+batch: 20, discriminator loss: 0.2669353783130646, generator loss: 7.25286340713501
+batch: 40, discriminator loss: 0.02393365651369095, generator loss: 7.679900646209717
+batch: 60, discriminator loss: 0.061737652868032455, generator loss: 3.610665798187256
+batch: 80, discriminator loss: 0.019508544355630875, generator loss: 7.3975372314453125
+======================================
+Epoch: 100/200, discriminator loss: 0.24818849563598633, generator loss: 4.303153038024902
+======================================
+
+
+batch: 0, discriminator loss: 0.04733886942267418, generator loss: 5.951260089874268
+batch: 20, discriminator loss: 0.08474522083997726, generator loss: 6.872486114501953
+batch: 40, discriminator loss: 0.029966097325086594, generator loss: 6.329668045043945
+batch: 60, discriminator loss: 0.018391743302345276, generator loss: 5.135898590087891
+batch: 80, discriminator loss: 0.03395449370145798, generator loss: 7.157130718231201
+======================================
+Epoch: 101/200, discriminator loss: 0.11079525202512741, generator loss: 9.301761627197266
+======================================
+
+
+batch: 0, discriminator loss: 1.201600193977356, generator loss: 8.896893501281738
+batch: 20, discriminator loss: 0.18485943973064423, generator loss: 4.824318885803223
+batch: 40, discriminator loss: 0.07560282945632935, generator loss: 5.338164806365967
+batch: 60, discriminator loss: 0.4416535794734955, generator loss: 3.5500166416168213
+batch: 80, discriminator loss: 0.02753828838467598, generator loss: 7.604673385620117
+======================================
+Epoch: 102/200, discriminator loss: 0.13919022679328918, generator loss: 4.711784362792969
+======================================
+
+
+batch: 0, discriminator loss: 0.14224962890148163, generator loss: 3.0787878036499023
+batch: 20, discriminator loss: 0.3205050826072693, generator loss: 3.375415802001953
+batch: 40, discriminator loss: 0.01029520109295845, generator loss: 8.566372871398926
+batch: 60, discriminator loss: 0.017318997532129288, generator loss: 4.813808441162109
+batch: 80, discriminator loss: 0.21331027150154114, generator loss: 4.754672527313232
+======================================
+Epoch: 103/200, discriminator loss: 0.15186616778373718, generator loss: 4.2798380851745605
+======================================
+
+
+batch: 0, discriminator loss: 0.01767362654209137, generator loss: 6.037519931793213
+batch: 20, discriminator loss: 0.10728983581066132, generator loss: 4.68231725692749
+batch: 40, discriminator loss: 0.06241094693541527, generator loss: 7.08851432800293
+batch: 60, discriminator loss: 0.14684540033340454, generator loss: 4.966328144073486
+batch: 80, discriminator loss: 0.07078029960393906, generator loss: 6.1975884437561035
+======================================
+Epoch: 104/200, discriminator loss: 0.06469975411891937, generator loss: 3.0803396701812744
+======================================
+
+
+batch: 0, discriminator loss: 0.41391700506210327, generator loss: 2.6195292472839355
+batch: 20, discriminator loss: 0.07686580717563629, generator loss: 3.8495309352874756
+batch: 40, discriminator loss: 0.048512160778045654, generator loss: 5.00618839263916
+batch: 60, discriminator loss: 0.03774285316467285, generator loss: 5.469077110290527
+batch: 80, discriminator loss: 0.024884674698114395, generator loss: 6.483020305633545
+======================================
+Epoch: 105/200, discriminator loss: 0.13483165204524994, generator loss: 4.43277645111084
+======================================
+
+
+batch: 0, discriminator loss: 0.33905425667762756, generator loss: 3.6977832317352295
+batch: 20, discriminator loss: 0.8151509165763855, generator loss: 2.9445223808288574
+batch: 40, discriminator loss: 0.40905439853668213, generator loss: 12.153952598571777
+batch: 60, discriminator loss: 0.13230350613594055, generator loss: 4.861921310424805
+batch: 80, discriminator loss: 0.24833190441131592, generator loss: 4.365128040313721
+======================================
+Epoch: 106/200, discriminator loss: 0.08236914873123169, generator loss: 8.149897575378418
+======================================
+
+
+batch: 0, discriminator loss: 0.06848230957984924, generator loss: 12.170110702514648
+batch: 20, discriminator loss: 0.649124026298523, generator loss: 2.6889328956604004
+batch: 40, discriminator loss: 0.0260792076587677, generator loss: 9.376424789428711
+batch: 60, discriminator loss: 0.039295416325330734, generator loss: 6.325664520263672
+batch: 80, discriminator loss: 0.06098661199212074, generator loss: 7.460906505584717
+======================================
+Epoch: 107/200, discriminator loss: 0.025048868730664253, generator loss: 4.949395656585693
+======================================
+
+
+batch: 0, discriminator loss: 0.049863219261169434, generator loss: 4.101787090301514
+batch: 20, discriminator loss: 0.01848895475268364, generator loss: 6.452313423156738
+batch: 40, discriminator loss: 0.13499870896339417, generator loss: 4.899914264678955
+batch: 60, discriminator loss: 1.161529779434204, generator loss: 9.596919059753418
+batch: 80, discriminator loss: 0.6966571807861328, generator loss: 3.367918014526367
+======================================
+Epoch: 108/200, discriminator loss: 0.12765373289585114, generator loss: 8.906719207763672
+======================================
+
+
+batch: 0, discriminator loss: 0.18971680104732513, generator loss: 9.020706176757812
+batch: 20, discriminator loss: 0.22920216619968414, generator loss: 4.407216548919678
+batch: 40, discriminator loss: 0.06973101198673248, generator loss: 2.2746331691741943
+batch: 60, discriminator loss: 0.04160431772470474, generator loss: 4.22890043258667
+batch: 80, discriminator loss: 0.1345243602991104, generator loss: 4.373474597930908
+======================================
+Epoch: 109/200, discriminator loss: 0.23203632235527039, generator loss: 9.478227615356445
+======================================
+
+
+batch: 0, discriminator loss: 0.24058197438716888, generator loss: 5.150399684906006
+batch: 20, discriminator loss: 1.4793380498886108, generator loss: 2.667556047439575
+batch: 40, discriminator loss: 0.4460233747959137, generator loss: 6.642725944519043
+batch: 60, discriminator loss: 0.002652836497873068, generator loss: 9.273573875427246
+batch: 80, discriminator loss: 0.06693167984485626, generator loss: 4.7213640213012695
+======================================
+Epoch: 110/200, discriminator loss: 0.22201664745807648, generator loss: 4.2269086837768555
+======================================
+
+
+batch: 0, discriminator loss: 0.37879273295402527, generator loss: 2.8281936645507812
+batch: 20, discriminator loss: 0.23294104635715485, generator loss: 2.7627885341644287
+batch: 40, discriminator loss: 0.04501169174909592, generator loss: 5.9456658363342285
+batch: 60, discriminator loss: 0.11143410205841064, generator loss: 6.275026321411133
+batch: 80, discriminator loss: 0.04063357412815094, generator loss: 4.61093807220459
+======================================
+Epoch: 111/200, discriminator loss: 0.6081416606903076, generator loss: 1.8315012454986572
+======================================
+
+
+batch: 0, discriminator loss: 0.18098783493041992, generator loss: 3.6989364624023438
+batch: 20, discriminator loss: 0.07408235222101212, generator loss: 5.902305603027344
+batch: 40, discriminator loss: 0.5106494426727295, generator loss: 4.31840705871582
+batch: 60, discriminator loss: 0.054206352680921555, generator loss: 4.081110000610352
+batch: 80, discriminator loss: 0.2575298249721527, generator loss: 2.9796388149261475
+======================================
+Epoch: 112/200, discriminator loss: 0.07685857266187668, generator loss: 4.858339309692383
+======================================
+
+
+batch: 0, discriminator loss: 0.10919263958930969, generator loss: 5.576157569885254
+batch: 20, discriminator loss: 0.08610598742961884, generator loss: 6.598147392272949
+batch: 40, discriminator loss: 0.08837340027093887, generator loss: 9.677373886108398
+batch: 60, discriminator loss: 0.5925241708755493, generator loss: 2.0432746410369873
+batch: 80, discriminator loss: 0.5531710386276245, generator loss: 2.880093574523926
+======================================
+Epoch: 113/200, discriminator loss: 0.012503388337790966, generator loss: 7.2812957763671875
+======================================
+
+
+batch: 0, discriminator loss: 0.014205423183739185, generator loss: 6.578281879425049
+batch: 20, discriminator loss: 0.018556274473667145, generator loss: 8.449134826660156
+batch: 40, discriminator loss: 0.23077520728111267, generator loss: 3.1199989318847656
+batch: 60, discriminator loss: 0.10455471277236938, generator loss: 3.9445297718048096
+batch: 80, discriminator loss: 1.1407368183135986, generator loss: 3.1736316680908203
+======================================
+Epoch: 114/200, discriminator loss: 0.012257074005901814, generator loss: 5.71529483795166
+======================================
+
+
+batch: 0, discriminator loss: 0.0771268755197525, generator loss: 4.186217784881592
+batch: 20, discriminator loss: 0.07016995549201965, generator loss: 5.345138072967529
+batch: 40, discriminator loss: 0.026110319420695305, generator loss: 7.777978420257568
+batch: 60, discriminator loss: 0.1926487386226654, generator loss: 5.252631664276123
+batch: 80, discriminator loss: 0.07163901627063751, generator loss: 5.429569244384766
+======================================
+Epoch: 115/200, discriminator loss: 0.2014659196138382, generator loss: 3.6571502685546875
+======================================
+
+
+batch: 0, discriminator loss: 0.053800057619810104, generator loss: 4.673748016357422
+batch: 20, discriminator loss: 0.14792388677597046, generator loss: 4.376570224761963
+batch: 40, discriminator loss: 0.4658103287220001, generator loss: 3.6832334995269775
+batch: 60, discriminator loss: 0.5437563061714172, generator loss: 2.2043120861053467
+batch: 80, discriminator loss: 0.20732057094573975, generator loss: 4.6169047355651855
+======================================
+Epoch: 116/200, discriminator loss: 0.1664241999387741, generator loss: 4.199928283691406
+======================================
+
+
+batch: 0, discriminator loss: 0.1146770715713501, generator loss: 5.223019599914551
+batch: 20, discriminator loss: 0.12844334542751312, generator loss: 4.0005717277526855
+batch: 40, discriminator loss: 0.06737248599529266, generator loss: 4.270426273345947
+batch: 60, discriminator loss: 1.014858365058899, generator loss: 2.704151153564453
+batch: 80, discriminator loss: 0.15448985993862152, generator loss: 4.086929798126221
+======================================
+Epoch: 117/200, discriminator loss: 0.09197055548429489, generator loss: 5.258273601531982
+======================================
+
+
+batch: 0, discriminator loss: 0.5087171792984009, generator loss: 2.2255091667175293
+batch: 20, discriminator loss: 0.0894680768251419, generator loss: 6.356764793395996
+batch: 40, discriminator loss: 0.02517113834619522, generator loss: 5.378144264221191
+batch: 60, discriminator loss: 0.06113555654883385, generator loss: 4.922523021697998
+batch: 80, discriminator loss: 0.10609723627567291, generator loss: 6.071887493133545
+======================================
+Epoch: 118/200, discriminator loss: 0.9814688563346863, generator loss: 3.4303386211395264
+======================================
+
+
+batch: 0, discriminator loss: 0.05960695818066597, generator loss: 6.9755096435546875
+batch: 20, discriminator loss: 0.20341674983501434, generator loss: 3.0748682022094727
+batch: 40, discriminator loss: 0.03296578302979469, generator loss: 8.270158767700195
+batch: 60, discriminator loss: 0.2874128818511963, generator loss: 5.379248142242432
+batch: 80, discriminator loss: 0.11621887981891632, generator loss: 6.060058116912842
+======================================
+Epoch: 119/200, discriminator loss: 0.16671383380889893, generator loss: 4.513871192932129
+======================================
+
+
+batch: 0, discriminator loss: 0.11980581283569336, generator loss: 5.758558750152588
+batch: 20, discriminator loss: 0.20861968398094177, generator loss: 2.193927049636841
+batch: 40, discriminator loss: 0.28850993514060974, generator loss: 5.919039726257324
+batch: 60, discriminator loss: 0.060238778591156006, generator loss: 9.956379890441895
+batch: 80, discriminator loss: 0.13449044525623322, generator loss: 6.84044885635376
+======================================
+Epoch: 120/200, discriminator loss: 0.15360242128372192, generator loss: 5.571078300476074
+======================================
+
+
+batch: 0, discriminator loss: 0.04961808770895004, generator loss: 6.229022026062012
+batch: 20, discriminator loss: 0.08239050209522247, generator loss: 5.97890567779541
+batch: 40, discriminator loss: 0.37757208943367004, generator loss: 3.951413631439209
+batch: 60, discriminator loss: 0.02200930565595627, generator loss: 8.781745910644531
+batch: 80, discriminator loss: 0.27116498351097107, generator loss: 3.4804959297180176
+======================================
+Epoch: 121/200, discriminator loss: 0.10253556072711945, generator loss: 4.600804805755615
+======================================
+
+
+batch: 0, discriminator loss: 0.13308824598789215, generator loss: 4.304991722106934
+batch: 20, discriminator loss: 0.17954620718955994, generator loss: 4.3606743812561035
+batch: 40, discriminator loss: 0.05252334102988243, generator loss: 5.769332408905029
+batch: 60, discriminator loss: 0.9278057217597961, generator loss: 8.541990280151367
+batch: 80, discriminator loss: 0.32932746410369873, generator loss: 7.16121768951416
+======================================
+Epoch: 122/200, discriminator loss: 0.30518925189971924, generator loss: 4.444006443023682
+======================================
+
+
+batch: 0, discriminator loss: 0.13635964691638947, generator loss: 5.753735065460205
+batch: 20, discriminator loss: 0.04918210208415985, generator loss: 4.736708641052246
+batch: 40, discriminator loss: 0.0369943268597126, generator loss: 5.407074451446533
+batch: 60, discriminator loss: 0.45421692728996277, generator loss: 1.1558327674865723
+batch: 80, discriminator loss: 0.020692063495516777, generator loss: 7.232200622558594
+======================================
+Epoch: 123/200, discriminator loss: 0.1725720763206482, generator loss: 4.141200542449951
+======================================
+
+
+batch: 0, discriminator loss: 0.10036589205265045, generator loss: 5.2935357093811035
+batch: 20, discriminator loss: 0.17161151766777039, generator loss: 4.930608749389648
+batch: 40, discriminator loss: 0.45081353187561035, generator loss: 5.467004299163818
+batch: 60, discriminator loss: 0.020143695175647736, generator loss: 6.560536861419678
+batch: 80, discriminator loss: 0.5675310492515564, generator loss: 3.114734172821045
+======================================
+Epoch: 124/200, discriminator loss: 0.08305718004703522, generator loss: 5.115205764770508
+======================================
+
+
+batch: 0, discriminator loss: 0.04318689927458763, generator loss: 6.225284576416016
+batch: 20, discriminator loss: 0.6307421326637268, generator loss: 2.937718629837036
+batch: 40, discriminator loss: 0.10566245019435883, generator loss: 3.2458715438842773
+batch: 60, discriminator loss: 0.30278700590133667, generator loss: 4.4035491943359375
+batch: 80, discriminator loss: 0.07113649696111679, generator loss: 5.671439170837402
+======================================
+Epoch: 125/200, discriminator loss: 0.29841095209121704, generator loss: 4.718405723571777
+======================================
+
+
+batch: 0, discriminator loss: 0.18236713111400604, generator loss: 5.530611038208008
+batch: 20, discriminator loss: 0.12373354285955429, generator loss: 5.13142728805542
+batch: 40, discriminator loss: 0.16364015638828278, generator loss: 7.660653114318848
+batch: 60, discriminator loss: 0.3881340026855469, generator loss: 3.3377325534820557
+batch: 80, discriminator loss: 0.16166719794273376, generator loss: 3.7031970024108887
+======================================
+Epoch: 126/200, discriminator loss: 0.17574213445186615, generator loss: 2.9210541248321533
+======================================
+
+
+batch: 0, discriminator loss: 0.09071949869394302, generator loss: 4.3588714599609375
+batch: 20, discriminator loss: 0.022312186658382416, generator loss: 5.869032382965088
+batch: 40, discriminator loss: 0.17058290541172028, generator loss: 4.585801601409912
+batch: 60, discriminator loss: 0.26697078347206116, generator loss: 3.027634620666504
+batch: 80, discriminator loss: 0.04093468189239502, generator loss: 8.174795150756836
+======================================
+Epoch: 127/200, discriminator loss: 0.3584471046924591, generator loss: 3.4152681827545166
+======================================
+
+
+batch: 0, discriminator loss: 0.008722184225916862, generator loss: 7.821221351623535
+batch: 20, discriminator loss: 0.02033926546573639, generator loss: 7.207973480224609
+batch: 40, discriminator loss: 0.06825698167085648, generator loss: 5.8520379066467285
+batch: 60, discriminator loss: 0.04038236662745476, generator loss: 4.565162181854248
+batch: 80, discriminator loss: 0.8471445441246033, generator loss: 6.388282299041748
+======================================
+Epoch: 128/200, discriminator loss: 0.027094606310129166, generator loss: 6.8402628898620605
+======================================
+
+
+batch: 0, discriminator loss: 0.12357067316770554, generator loss: 7.949427604675293
+batch: 20, discriminator loss: 0.06768818199634552, generator loss: 7.606315612792969
+batch: 40, discriminator loss: 0.09502264857292175, generator loss: 4.383792400360107
+batch: 60, discriminator loss: 0.011449994519352913, generator loss: 6.901145935058594
+batch: 80, discriminator loss: 0.049799125641584396, generator loss: 8.317326545715332
+======================================
+Epoch: 129/200, discriminator loss: 0.07893979549407959, generator loss: 4.100769996643066
+======================================
+
+
+batch: 0, discriminator loss: 0.07811818271875381, generator loss: 4.459412097930908
+batch: 20, discriminator loss: 0.37233686447143555, generator loss: 4.550732612609863
+batch: 40, discriminator loss: 0.08311113715171814, generator loss: 4.702761650085449
+batch: 60, discriminator loss: 0.16604606807231903, generator loss: 4.3094329833984375
+batch: 80, discriminator loss: 0.03883952647447586, generator loss: 5.611431121826172
+======================================
+Epoch: 130/200, discriminator loss: 0.03409373387694359, generator loss: 5.60390567779541
+======================================
+
+
+batch: 0, discriminator loss: 0.045782651752233505, generator loss: 5.301291465759277
+batch: 20, discriminator loss: 0.26496562361717224, generator loss: 4.3866071701049805
+batch: 40, discriminator loss: 0.26955023407936096, generator loss: 4.273715019226074
+batch: 60, discriminator loss: 0.08915097266435623, generator loss: 4.953858375549316
+batch: 80, discriminator loss: 0.13666601479053497, generator loss: 4.869563102722168
+======================================
+Epoch: 131/200, discriminator loss: 0.011687182821333408, generator loss: 6.382186412811279
+======================================
+
+
+batch: 0, discriminator loss: 0.03893391788005829, generator loss: 5.618920803070068
+batch: 20, discriminator loss: 0.052256688475608826, generator loss: 5.94976282119751
+batch: 40, discriminator loss: 0.02262897416949272, generator loss: 6.207036018371582
+batch: 60, discriminator loss: 0.07311780005693436, generator loss: 11.375523567199707
+batch: 80, discriminator loss: 0.177341490983963, generator loss: 4.424992561340332
+======================================
+Epoch: 132/200, discriminator loss: 0.03900408372282982, generator loss: 7.794050216674805
+======================================
+
+
+batch: 0, discriminator loss: 0.24575933814048767, generator loss: 4.615347862243652
+batch: 20, discriminator loss: 0.0494089275598526, generator loss: 5.406485557556152
+batch: 40, discriminator loss: 0.7878873348236084, generator loss: 3.6430530548095703
+batch: 60, discriminator loss: 0.015426542609930038, generator loss: 8.165823936462402
+batch: 80, discriminator loss: 0.08370149880647659, generator loss: 4.4184041023254395
+======================================
+Epoch: 133/200, discriminator loss: 0.5071598291397095, generator loss: 2.053457021713257
+======================================
+
+
+batch: 0, discriminator loss: 0.12080204486846924, generator loss: 4.277279376983643
+batch: 20, discriminator loss: 0.047359831631183624, generator loss: 6.249020099639893
+batch: 40, discriminator loss: 0.8647087812423706, generator loss: 3.164147138595581
+batch: 60, discriminator loss: 0.02343784272670746, generator loss: 7.241540908813477
+batch: 80, discriminator loss: 0.11841882020235062, generator loss: 7.593742370605469
+======================================
+Epoch: 134/200, discriminator loss: 0.026687517762184143, generator loss: 7.856086730957031
+======================================
+
+
+batch: 0, discriminator loss: 0.16109637916088104, generator loss: 9.479857444763184
+batch: 20, discriminator loss: 0.0771036222577095, generator loss: 3.3975670337677
+batch: 40, discriminator loss: 0.1612217128276825, generator loss: 4.169754505157471
+batch: 60, discriminator loss: 0.2448148876428604, generator loss: 8.745833396911621
+batch: 80, discriminator loss: 0.10492072254419327, generator loss: 8.301375389099121
+======================================
+Epoch: 135/200, discriminator loss: 0.224097341299057, generator loss: 5.3939337730407715
+======================================
+
+
+batch: 0, discriminator loss: 0.054622095078229904, generator loss: 5.972567558288574
+batch: 20, discriminator loss: 0.007856586016714573, generator loss: 6.209659576416016
+batch: 40, discriminator loss: 0.024790938943624496, generator loss: 6.756893157958984
+batch: 60, discriminator loss: 0.08509355783462524, generator loss: 10.140732765197754
+batch: 80, discriminator loss: 0.41327574849128723, generator loss: 3.8456287384033203
+======================================
+Epoch: 136/200, discriminator loss: 0.05132932960987091, generator loss: 4.533439636230469
+======================================
+
+
+batch: 0, discriminator loss: 0.12380979210138321, generator loss: 3.648172378540039
+batch: 20, discriminator loss: 0.09696033596992493, generator loss: 7.294238090515137
+batch: 40, discriminator loss: 0.13059942424297333, generator loss: 8.421478271484375
+batch: 60, discriminator loss: 0.0376359187066555, generator loss: 6.309006690979004
+batch: 80, discriminator loss: 0.3533709943294525, generator loss: 3.2190773487091064
+======================================
+Epoch: 137/200, discriminator loss: 0.25221312046051025, generator loss: 3.120934247970581
+======================================
+
+
+batch: 0, discriminator loss: 0.16531312465667725, generator loss: 3.915541887283325
+batch: 20, discriminator loss: 0.5052619576454163, generator loss: 8.323734283447266
+batch: 40, discriminator loss: 0.06803445518016815, generator loss: 5.923476219177246
+batch: 60, discriminator loss: 0.06442030519247055, generator loss: 5.722398281097412
+batch: 80, discriminator loss: 0.1476231813430786, generator loss: 5.257819652557373
+======================================
+Epoch: 138/200, discriminator loss: 0.036746397614479065, generator loss: 6.30459451675415
+======================================
+
+
+batch: 0, discriminator loss: 0.006967409048229456, generator loss: 8.190229415893555
+batch: 20, discriminator loss: 0.05979105085134506, generator loss: 9.49477767944336
+batch: 40, discriminator loss: 0.3487175405025482, generator loss: 4.250163555145264
+batch: 60, discriminator loss: 0.04885809123516083, generator loss: 4.764904022216797
+batch: 80, discriminator loss: 0.0227791890501976, generator loss: 6.521852493286133
+======================================
+Epoch: 139/200, discriminator loss: 0.12151191383600235, generator loss: 8.953197479248047
+======================================
+
+
+batch: 0, discriminator loss: 0.1411132663488388, generator loss: 11.00094985961914
+batch: 20, discriminator loss: 0.07545286417007446, generator loss: 5.561575889587402
+batch: 40, discriminator loss: 0.11645878106355667, generator loss: 3.7729310989379883
+batch: 60, discriminator loss: 0.11121940612792969, generator loss: 3.341233968734741
+batch: 80, discriminator loss: 0.16033333539962769, generator loss: 2.776092052459717
+======================================
+Epoch: 140/200, discriminator loss: 0.18652579188346863, generator loss: 2.942153215408325
+======================================
+
+
+batch: 0, discriminator loss: 0.36417102813720703, generator loss: 1.4622080326080322
+batch: 20, discriminator loss: 0.11074567586183548, generator loss: 7.086419105529785
+batch: 40, discriminator loss: 0.10669010132551193, generator loss: 6.390230178833008
+batch: 60, discriminator loss: 0.14850449562072754, generator loss: 3.9788665771484375
+batch: 80, discriminator loss: 0.06806781142950058, generator loss: 6.5093994140625
+======================================
+Epoch: 141/200, discriminator loss: 0.03468797355890274, generator loss: 6.335566520690918
+======================================
+
+
+batch: 0, discriminator loss: 0.11203651875257492, generator loss: 5.134078502655029
+batch: 20, discriminator loss: 0.08057396858930588, generator loss: 4.33120059967041
+batch: 40, discriminator loss: 0.3737851083278656, generator loss: 2.962364435195923
+batch: 60, discriminator loss: 0.17668992280960083, generator loss: 8.006957054138184
+batch: 80, discriminator loss: 0.12175705283880234, generator loss: 8.431755065917969
+======================================
+Epoch: 142/200, discriminator loss: 0.06832818686962128, generator loss: 5.265120029449463
+======================================
+
+
+batch: 0, discriminator loss: 0.27959516644477844, generator loss: 4.007189750671387
+batch: 20, discriminator loss: 0.31590327620506287, generator loss: 5.235145568847656
+batch: 40, discriminator loss: 0.08729007095098495, generator loss: 3.691318988800049
+batch: 60, discriminator loss: 0.014150405302643776, generator loss: 6.840587139129639
+batch: 80, discriminator loss: 0.4761984348297119, generator loss: 4.270090103149414
+======================================
+Epoch: 143/200, discriminator loss: 0.12257452309131622, generator loss: 5.895195960998535
+======================================
+
+
+batch: 0, discriminator loss: 0.02106928825378418, generator loss: 9.15929889678955
+batch: 20, discriminator loss: 0.111426442861557, generator loss: 7.149898052215576
+batch: 40, discriminator loss: 0.06061258912086487, generator loss: 3.1010797023773193
+batch: 60, discriminator loss: 0.3133296072483063, generator loss: 7.903502941131592
+batch: 80, discriminator loss: 0.04669845476746559, generator loss: 4.499337196350098
+======================================
+Epoch: 144/200, discriminator loss: 0.05169276148080826, generator loss: 7.33254337310791
+======================================
+
+
+batch: 0, discriminator loss: 0.07624738663434982, generator loss: 6.442099571228027
+batch: 20, discriminator loss: 0.3187272250652313, generator loss: 6.1717753410339355
+batch: 40, discriminator loss: 0.17605775594711304, generator loss: 3.945418357849121
+batch: 60, discriminator loss: 0.02293163351714611, generator loss: 5.973413467407227
+batch: 80, discriminator loss: 0.10442852973937988, generator loss: 4.587981700897217
+======================================
+Epoch: 145/200, discriminator loss: 0.06105739250779152, generator loss: 3.551074981689453
+======================================
+
+
+batch: 0, discriminator loss: 0.15052640438079834, generator loss: 3.038395881652832
+batch: 20, discriminator loss: 0.21061104536056519, generator loss: 4.953254222869873
+batch: 40, discriminator loss: 0.177896648645401, generator loss: 5.909554481506348
+batch: 60, discriminator loss: 0.07899327576160431, generator loss: 4.049723148345947
+batch: 80, discriminator loss: 0.38924625515937805, generator loss: 3.1158220767974854
+======================================
+Epoch: 146/200, discriminator loss: 0.05018094927072525, generator loss: 9.061869621276855
+======================================
+
+
+batch: 0, discriminator loss: 0.06027974560856819, generator loss: 7.504892349243164
+batch: 20, discriminator loss: 0.08034151792526245, generator loss: 5.935591697692871
+batch: 40, discriminator loss: 0.07922706753015518, generator loss: 4.600132942199707
+batch: 60, discriminator loss: 0.039212245494127274, generator loss: 5.751497268676758
+batch: 80, discriminator loss: 0.06198792904615402, generator loss: 6.703139305114746
+======================================
+Epoch: 147/200, discriminator loss: 0.038289397954940796, generator loss: 4.978564262390137
+======================================
+
+
+batch: 0, discriminator loss: 0.07031819224357605, generator loss: 4.531614780426025
+batch: 20, discriminator loss: 0.07034212350845337, generator loss: 4.696122169494629
+batch: 40, discriminator loss: 0.11411519348621368, generator loss: 5.565670490264893
+batch: 60, discriminator loss: 0.2401677817106247, generator loss: 7.454307556152344
+batch: 80, discriminator loss: 0.0369095504283905, generator loss: 6.307300567626953
+======================================
+Epoch: 148/200, discriminator loss: 0.06191466003656387, generator loss: 4.393960475921631
+======================================
+
+
+batch: 0, discriminator loss: 0.17024898529052734, generator loss: 4.733616828918457
+batch: 20, discriminator loss: 0.009213468059897423, generator loss: 7.6562886238098145
+batch: 40, discriminator loss: 0.10856416821479797, generator loss: 5.521800518035889
+batch: 60, discriminator loss: 0.10607342422008514, generator loss: 2.868288040161133
+batch: 80, discriminator loss: 0.1419273167848587, generator loss: 4.706506729125977
+======================================
+Epoch: 149/200, discriminator loss: 0.28899386525154114, generator loss: 3.6043035984039307
+======================================
+
+
+batch: 0, discriminator loss: 0.37404781579971313, generator loss: 4.127501487731934
+batch: 20, discriminator loss: 0.06467191874980927, generator loss: 5.521943092346191
+batch: 40, discriminator loss: 0.08335290104150772, generator loss: 6.323128700256348
+batch: 60, discriminator loss: 0.07902964949607849, generator loss: 3.429107904434204
+batch: 80, discriminator loss: 0.23351208865642548, generator loss: 7.682312965393066
+======================================
+Epoch: 150/200, discriminator loss: 0.014880910515785217, generator loss: 8.768583297729492
+======================================
+
+
+batch: 0, discriminator loss: 0.05036682263016701, generator loss: 8.914606094360352
+batch: 20, discriminator loss: 0.7788993716239929, generator loss: 3.826206684112549
+batch: 40, discriminator loss: 0.06648660451173782, generator loss: 3.210834503173828
+batch: 60, discriminator loss: 0.04691062867641449, generator loss: 6.639697074890137
+batch: 80, discriminator loss: 0.04486909881234169, generator loss: 5.708049297332764
+======================================
+Epoch: 151/200, discriminator loss: 0.7790044546127319, generator loss: 3.9345178604125977
+======================================
+
+
+batch: 0, discriminator loss: 0.1340104192495346, generator loss: 3.1090381145477295
+batch: 20, discriminator loss: 0.00843905471265316, generator loss: 7.2813801765441895
+batch: 40, discriminator loss: 0.2332289218902588, generator loss: 5.200007438659668
+batch: 60, discriminator loss: 0.00045680906623601913, generator loss: 11.56611442565918
+batch: 80, discriminator loss: 0.03992243856191635, generator loss: 7.230311393737793
+======================================
+Epoch: 152/200, discriminator loss: 0.2965787351131439, generator loss: 8.967986106872559
+======================================
+
+
+batch: 0, discriminator loss: 0.12903909385204315, generator loss: 7.102624893188477
+batch: 20, discriminator loss: 0.06529342383146286, generator loss: 6.087488651275635
+batch: 40, discriminator loss: 0.33224278688430786, generator loss: 5.158238887786865
+batch: 60, discriminator loss: 0.09952548146247864, generator loss: 7.051263332366943
+batch: 80, discriminator loss: 0.15804649889469147, generator loss: 4.213541030883789
+======================================
+Epoch: 153/200, discriminator loss: 0.08870641887187958, generator loss: 4.499448299407959
+======================================
+
+
+batch: 0, discriminator loss: 0.07611748576164246, generator loss: 4.882425308227539
+batch: 20, discriminator loss: 0.06508704274892807, generator loss: 4.928798198699951
+batch: 40, discriminator loss: 0.03602711856365204, generator loss: 5.209277153015137
+batch: 60, discriminator loss: 0.46288421750068665, generator loss: 3.3063788414001465
+batch: 80, discriminator loss: 0.01646026037633419, generator loss: 6.3499836921691895
+======================================
+Epoch: 154/200, discriminator loss: 0.5181964039802551, generator loss: 6.320575714111328
+======================================
+
+
+batch: 0, discriminator loss: 0.10994027554988861, generator loss: 3.8830535411834717
+batch: 20, discriminator loss: 0.15474919974803925, generator loss: 4.858948707580566
+batch: 40, discriminator loss: 0.047882065176963806, generator loss: 5.259939670562744
+batch: 60, discriminator loss: 0.06426233798265457, generator loss: 6.663956165313721
+batch: 80, discriminator loss: 0.30945202708244324, generator loss: 5.571588516235352
+======================================
+Epoch: 155/200, discriminator loss: 0.10041339695453644, generator loss: 5.440889835357666
+======================================
+
+
+batch: 0, discriminator loss: 0.03422847390174866, generator loss: 6.579017162322998
+batch: 20, discriminator loss: 0.07325886189937592, generator loss: 5.8041791915893555
+batch: 40, discriminator loss: 0.04421437531709671, generator loss: 6.532620429992676
+batch: 60, discriminator loss: 0.0009826857130974531, generator loss: 8.25048542022705
+batch: 80, discriminator loss: 0.3358253836631775, generator loss: 4.164348602294922
+======================================
+Epoch: 156/200, discriminator loss: 0.30222588777542114, generator loss: 3.8498895168304443
+======================================
+
+
+batch: 0, discriminator loss: 0.05611507594585419, generator loss: 5.8822455406188965
+batch: 20, discriminator loss: 0.1274537593126297, generator loss: 4.6781415939331055
+batch: 40, discriminator loss: 0.04081376641988754, generator loss: 8.217123031616211
+batch: 60, discriminator loss: 0.08166003227233887, generator loss: 5.143616199493408
+batch: 80, discriminator loss: 0.017194775864481926, generator loss: 5.112512588500977
+======================================
+Epoch: 157/200, discriminator loss: 0.05433645471930504, generator loss: 6.2300028800964355
+======================================
+
+
+batch: 0, discriminator loss: 0.25213631987571716, generator loss: 5.448810577392578
+batch: 20, discriminator loss: 0.061543527990579605, generator loss: 5.96320104598999
+batch: 40, discriminator loss: 0.09367688000202179, generator loss: 5.383563041687012
+batch: 60, discriminator loss: 0.24088868498802185, generator loss: 3.9684815406799316
+batch: 80, discriminator loss: 0.5883901715278625, generator loss: 6.304474353790283
+======================================
+Epoch: 158/200, discriminator loss: 0.0060770949348807335, generator loss: 9.541036605834961
+======================================
+
+
+batch: 0, discriminator loss: 0.05001717060804367, generator loss: 8.609936714172363
+batch: 20, discriminator loss: 0.18175233900547028, generator loss: 4.595761775970459
+batch: 40, discriminator loss: 0.1443525105714798, generator loss: 4.455735683441162
+batch: 60, discriminator loss: 0.039011117070913315, generator loss: 7.3802714347839355
+batch: 80, discriminator loss: 0.07521071285009384, generator loss: 5.4337358474731445
+======================================
+Epoch: 159/200, discriminator loss: 0.013677380979061127, generator loss: 7.964653968811035
+======================================
+
+
+batch: 0, discriminator loss: 0.03906362131237984, generator loss: 6.625626087188721
+batch: 20, discriminator loss: 0.3548251986503601, generator loss: 8.578332901000977
+batch: 40, discriminator loss: 0.05632554739713669, generator loss: 5.446013450622559
+batch: 60, discriminator loss: 0.008373992517590523, generator loss: 6.582484722137451
+batch: 80, discriminator loss: 0.07449561357498169, generator loss: 4.794498920440674
+======================================
+Epoch: 160/200, discriminator loss: 0.1715349406003952, generator loss: 3.8142642974853516
+======================================
+
+
+batch: 0, discriminator loss: 0.12161538749933243, generator loss: 5.489292621612549
+batch: 20, discriminator loss: 0.15914233028888702, generator loss: 4.812150001525879
+batch: 40, discriminator loss: 0.046302031725645065, generator loss: 6.237336158752441
+batch: 60, discriminator loss: 0.007372699677944183, generator loss: 8.613755226135254
+batch: 80, discriminator loss: 0.07636402547359467, generator loss: 5.558193683624268
+======================================
+Epoch: 161/200, discriminator loss: 0.17183110117912292, generator loss: 5.545392036437988
+======================================
+
+
+batch: 0, discriminator loss: 0.16281813383102417, generator loss: 5.140161037445068
+batch: 20, discriminator loss: 0.04412718117237091, generator loss: 7.261081695556641
+batch: 40, discriminator loss: 0.0532589927315712, generator loss: 7.253183841705322
+batch: 60, discriminator loss: 0.18285785615444183, generator loss: 4.345507621765137
+batch: 80, discriminator loss: 0.014548326842486858, generator loss: 7.352385520935059
+======================================
+Epoch: 162/200, discriminator loss: 0.04385458305478096, generator loss: 7.917403697967529
+======================================
+
+
+batch: 0, discriminator loss: 0.0844196304678917, generator loss: 7.303389549255371
+batch: 20, discriminator loss: 0.01966153085231781, generator loss: 8.383163452148438
+batch: 40, discriminator loss: 0.1364031583070755, generator loss: 4.6264848709106445
+batch: 60, discriminator loss: 0.027820244431495667, generator loss: 5.624512672424316
+batch: 80, discriminator loss: 0.031656645238399506, generator loss: 6.532083511352539
+======================================
+Epoch: 163/200, discriminator loss: 0.022203829139471054, generator loss: 7.687623977661133
+======================================
+
+
+batch: 0, discriminator loss: 0.054425813257694244, generator loss: 8.726783752441406
+batch: 20, discriminator loss: 0.30310550332069397, generator loss: 3.738553047180176
+batch: 40, discriminator loss: 0.020276036113500595, generator loss: 6.897247314453125
+batch: 60, discriminator loss: 0.21103394031524658, generator loss: 4.340791702270508
+batch: 80, discriminator loss: 0.232351616024971, generator loss: 3.638946533203125
+======================================
+Epoch: 164/200, discriminator loss: 0.15589386224746704, generator loss: 2.9800808429718018
+======================================
+
+
+batch: 0, discriminator loss: 0.6918424963951111, generator loss: 3.536731481552124
+batch: 20, discriminator loss: 0.2877620756626129, generator loss: 5.682866096496582
+batch: 40, discriminator loss: 0.6659337878227234, generator loss: 3.5573384761810303
+batch: 60, discriminator loss: 0.09400319308042526, generator loss: 5.2378830909729
+batch: 80, discriminator loss: 0.12700259685516357, generator loss: 4.053159713745117
+======================================
+Epoch: 165/200, discriminator loss: 0.13448457419872284, generator loss: 8.508007049560547
+======================================
+
+
+batch: 0, discriminator loss: 0.218477264046669, generator loss: 7.645885467529297
+batch: 20, discriminator loss: 0.041574012488126755, generator loss: 7.267062664031982
+batch: 40, discriminator loss: 0.0564190149307251, generator loss: 5.149108409881592
+batch: 60, discriminator loss: 0.17171449959278107, generator loss: 4.933867931365967
+batch: 80, discriminator loss: 0.0649675726890564, generator loss: 5.588900566101074
+======================================
+Epoch: 166/200, discriminator loss: 0.11443174630403519, generator loss: 8.597336769104004
+======================================
+
+
+batch: 0, discriminator loss: 0.32572486996650696, generator loss: 7.390473365783691
+batch: 20, discriminator loss: 0.007741749286651611, generator loss: 5.93991231918335
+batch: 40, discriminator loss: 0.08631809055805206, generator loss: 4.785131931304932
+batch: 60, discriminator loss: 0.06327909231185913, generator loss: 5.228229522705078
+batch: 80, discriminator loss: 0.115008644759655, generator loss: 4.479077339172363
+======================================
+Epoch: 167/200, discriminator loss: 0.1487843096256256, generator loss: 4.295659065246582
+======================================
+
+
+batch: 0, discriminator loss: 0.020420581102371216, generator loss: 7.345058917999268
+batch: 20, discriminator loss: 0.11767064779996872, generator loss: 3.9845261573791504
+batch: 40, discriminator loss: 0.05675741657614708, generator loss: 9.224843978881836
+batch: 60, discriminator loss: 0.029564784839749336, generator loss: 7.387046813964844
+batch: 80, discriminator loss: 0.09909243881702423, generator loss: 5.8359375
+======================================
+Epoch: 168/200, discriminator loss: 0.03797146677970886, generator loss: 5.94618558883667
+======================================
+
+
+batch: 0, discriminator loss: 0.005748077295720577, generator loss: 7.5704755783081055
+batch: 20, discriminator loss: 0.7540863752365112, generator loss: 3.936704397201538
+batch: 40, discriminator loss: 0.04963930696249008, generator loss: 15.78912353515625
+batch: 60, discriminator loss: 0.08018139004707336, generator loss: 4.021805286407471
+batch: 80, discriminator loss: 0.19308039546012878, generator loss: 4.730672359466553
+======================================
+Epoch: 169/200, discriminator loss: 0.21112194657325745, generator loss: 4.8989410400390625
+======================================
+
+
+batch: 0, discriminator loss: 0.12257310003042221, generator loss: 5.309874534606934
+batch: 20, discriminator loss: 0.06763891130685806, generator loss: 13.53372573852539
+batch: 40, discriminator loss: 0.17293065786361694, generator loss: 3.9872395992279053
+batch: 60, discriminator loss: 0.07177287340164185, generator loss: 6.564854621887207
+batch: 80, discriminator loss: 0.06591087579727173, generator loss: 5.364259719848633
+======================================
+Epoch: 170/200, discriminator loss: 0.0765019953250885, generator loss: 5.9143452644348145
+======================================
+
+
+batch: 0, discriminator loss: 0.14244526624679565, generator loss: 4.6004133224487305
+batch: 20, discriminator loss: 0.36233118176460266, generator loss: 5.402624130249023
+batch: 40, discriminator loss: 0.029068373143672943, generator loss: 6.259025573730469
+batch: 60, discriminator loss: 0.08212511241436005, generator loss: 5.431000709533691
+batch: 80, discriminator loss: 0.39259421825408936, generator loss: 4.0937089920043945
+======================================
+Epoch: 171/200, discriminator loss: 0.042951904237270355, generator loss: 8.973138809204102
+======================================
+
+
+batch: 0, discriminator loss: 0.010064005851745605, generator loss: 13.98006534576416
+batch: 20, discriminator loss: 0.23520594835281372, generator loss: 7.586475372314453
+batch: 40, discriminator loss: 0.19561325013637543, generator loss: 4.4629411697387695
+batch: 60, discriminator loss: 0.021670792251825333, generator loss: 6.232608795166016
+batch: 80, discriminator loss: 0.12357977032661438, generator loss: 6.696017265319824
+======================================
+Epoch: 172/200, discriminator loss: 0.04250548407435417, generator loss: 11.771748542785645
+======================================
+
+
+batch: 0, discriminator loss: 0.29198670387268066, generator loss: 10.692256927490234
+batch: 20, discriminator loss: 0.009534251876175404, generator loss: 12.279496192932129
+batch: 40, discriminator loss: 0.156981959939003, generator loss: 4.813995361328125
+batch: 60, discriminator loss: 0.1295090913772583, generator loss: 3.3909356594085693
+batch: 80, discriminator loss: 0.2847020626068115, generator loss: 6.702351093292236
+======================================
+Epoch: 173/200, discriminator loss: 0.3239065110683441, generator loss: 3.4942104816436768
+======================================
+
+
+batch: 0, discriminator loss: 0.12221229821443558, generator loss: 5.128398895263672
+batch: 20, discriminator loss: 0.0116379139944911, generator loss: 7.608499526977539
+batch: 40, discriminator loss: 0.06417256593704224, generator loss: 4.901252269744873
+batch: 60, discriminator loss: 0.012337585911154747, generator loss: 6.142178058624268
+batch: 80, discriminator loss: 0.5315496325492859, generator loss: 10.013875007629395
+======================================
+Epoch: 174/200, discriminator loss: 0.19008804857730865, generator loss: 4.623640060424805
+======================================
+
+
+batch: 0, discriminator loss: 0.01975090801715851, generator loss: 7.226691246032715
+batch: 20, discriminator loss: 0.06120101734995842, generator loss: 5.39570426940918
+batch: 40, discriminator loss: 0.6424760818481445, generator loss: 9.75391674041748
+batch: 60, discriminator loss: 0.028338538482785225, generator loss: 5.535246849060059
+batch: 80, discriminator loss: 0.08226779103279114, generator loss: 6.866164684295654
+======================================
+Epoch: 175/200, discriminator loss: 0.11366204172372818, generator loss: 7.300781726837158
+======================================
+
+
+batch: 0, discriminator loss: 0.10545966029167175, generator loss: 6.656618118286133
+batch: 20, discriminator loss: 0.015617987141013145, generator loss: 10.160486221313477
+batch: 40, discriminator loss: 0.17784900963306427, generator loss: 3.139514207839966
+batch: 60, discriminator loss: 0.018654946237802505, generator loss: 7.689674377441406
+batch: 80, discriminator loss: 0.008956280536949635, generator loss: 7.665000915527344
+======================================
+Epoch: 176/200, discriminator loss: 0.02615102380514145, generator loss: 5.735776901245117
+======================================
+
+
+batch: 0, discriminator loss: 0.056791167706251144, generator loss: 5.236454010009766
+batch: 20, discriminator loss: 0.2653437852859497, generator loss: 3.5221848487854004
+batch: 40, discriminator loss: 0.00862113293260336, generator loss: 6.684266567230225
+batch: 60, discriminator loss: 0.03237726539373398, generator loss: 6.3050456047058105
+batch: 80, discriminator loss: 0.05619524419307709, generator loss: 6.32670783996582
+======================================
+Epoch: 177/200, discriminator loss: 0.015620112419128418, generator loss: 6.329972267150879
+======================================
+
+
+batch: 0, discriminator loss: 0.029213301837444305, generator loss: 6.276885986328125
+batch: 20, discriminator loss: 0.10019944608211517, generator loss: 6.497122764587402
+batch: 40, discriminator loss: 0.0353388711810112, generator loss: 5.267899036407471
+batch: 60, discriminator loss: 0.04358500614762306, generator loss: 9.69735050201416
+batch: 80, discriminator loss: 0.021318405866622925, generator loss: 5.490265846252441
+======================================
+Epoch: 178/200, discriminator loss: 0.08575843274593353, generator loss: 3.556112289428711
+======================================
+
+
+batch: 0, discriminator loss: 0.02921270951628685, generator loss: 4.862116813659668
+batch: 20, discriminator loss: 0.05686153843998909, generator loss: 5.117091178894043
+batch: 40, discriminator loss: 0.11833298206329346, generator loss: 5.014150142669678
+batch: 60, discriminator loss: 0.1559048593044281, generator loss: 3.743711471557617
+batch: 80, discriminator loss: 0.043072041124105453, generator loss: 6.270081043243408
+======================================
+Epoch: 179/200, discriminator loss: 0.06530892103910446, generator loss: 6.558398246765137
+======================================
+
+
+batch: 0, discriminator loss: 0.014740057289600372, generator loss: 7.755277156829834
+batch: 20, discriminator loss: 0.14427591860294342, generator loss: 4.658449649810791
+batch: 40, discriminator loss: 0.07993315160274506, generator loss: 9.290184020996094
+batch: 60, discriminator loss: 0.20066609978675842, generator loss: 3.4174091815948486
+batch: 80, discriminator loss: 0.04427019879221916, generator loss: 8.804300308227539
+======================================
+Epoch: 180/200, discriminator loss: 0.020502915605902672, generator loss: 5.750312805175781
+======================================
+
+
+batch: 0, discriminator loss: 0.008141810074448586, generator loss: 6.234262466430664
+batch: 20, discriminator loss: 0.08895528316497803, generator loss: 6.670653343200684
+batch: 40, discriminator loss: 0.04986505210399628, generator loss: 5.843377113342285
+batch: 60, discriminator loss: 0.08894626051187515, generator loss: 5.038397312164307
+batch: 80, discriminator loss: 0.05310121178627014, generator loss: 5.958892345428467
+======================================
+Epoch: 181/200, discriminator loss: 0.034321725368499756, generator loss: 6.673079013824463
+======================================
+
+
+batch: 0, discriminator loss: 0.016463976353406906, generator loss: 6.825425624847412
+batch: 20, discriminator loss: 0.04415658488869667, generator loss: 4.96495246887207
+batch: 40, discriminator loss: 0.1430947482585907, generator loss: 3.9658353328704834
+batch: 60, discriminator loss: 0.06743305176496506, generator loss: 3.560622215270996
+batch: 80, discriminator loss: 0.02159762755036354, generator loss: 6.235846042633057
+======================================
+Epoch: 182/200, discriminator loss: 0.09873402118682861, generator loss: 6.618041515350342
+======================================
+
+
+batch: 0, discriminator loss: 0.015838587656617165, generator loss: 10.413433074951172
+batch: 20, discriminator loss: 0.002505325246602297, generator loss: 9.285990715026855
+batch: 40, discriminator loss: 0.03503241762518883, generator loss: 13.293808937072754
+batch: 60, discriminator loss: 0.04899202287197113, generator loss: 5.351596355438232
+batch: 80, discriminator loss: 0.3860720098018646, generator loss: 6.474608898162842
+======================================
+Epoch: 183/200, discriminator loss: 0.03869318217039108, generator loss: 9.237052917480469
+======================================
+
+
+batch: 0, discriminator loss: 0.0463249534368515, generator loss: 11.652352333068848
+batch: 20, discriminator loss: 0.014939781278371811, generator loss: 6.61766242980957
+batch: 40, discriminator loss: 0.16257865726947784, generator loss: 4.407039642333984
+batch: 60, discriminator loss: 0.04420136660337448, generator loss: 5.230162620544434
+batch: 80, discriminator loss: 0.11686430871486664, generator loss: 5.488224983215332
+======================================
+Epoch: 184/200, discriminator loss: 0.019103707745671272, generator loss: 5.9099955558776855
+======================================
+
+
+batch: 0, discriminator loss: 0.02993164397776127, generator loss: 6.03630256652832
+batch: 20, discriminator loss: 0.0444343201816082, generator loss: 6.135227680206299
+batch: 40, discriminator loss: 0.021644018590450287, generator loss: 6.929894924163818
+batch: 60, discriminator loss: 0.05055519938468933, generator loss: 5.709274768829346
+batch: 80, discriminator loss: 0.08367737382650375, generator loss: 3.4068126678466797
+======================================
+Epoch: 185/200, discriminator loss: 0.05927475541830063, generator loss: 11.690362930297852
+======================================
+
+
+batch: 0, discriminator loss: 0.0346447192132473, generator loss: 9.494800567626953
+batch: 20, discriminator loss: 0.0032275193370878696, generator loss: 11.249014854431152
+batch: 40, discriminator loss: 0.11997903138399124, generator loss: 7.986907005310059
+batch: 60, discriminator loss: 0.6926602721214294, generator loss: 2.440927267074585
+batch: 80, discriminator loss: 0.016633648425340652, generator loss: 6.963645935058594
+======================================
+Epoch: 186/200, discriminator loss: 0.05810786411166191, generator loss: 6.6210737228393555
+======================================
+
+
+batch: 0, discriminator loss: 0.20661622285842896, generator loss: 6.12031888961792
+batch: 20, discriminator loss: 0.05043293535709381, generator loss: 8.170612335205078
+batch: 40, discriminator loss: 0.013734826818108559, generator loss: 7.886414527893066
+batch: 60, discriminator loss: 0.003660874906927347, generator loss: 8.101873397827148
+batch: 80, discriminator loss: 0.03925241902470589, generator loss: 5.9734787940979
+======================================
+Epoch: 187/200, discriminator loss: 0.06627367436885834, generator loss: 4.365492343902588
+======================================
+
+
+batch: 0, discriminator loss: 0.08122836798429489, generator loss: 3.651383399963379
+batch: 20, discriminator loss: 0.04857449233531952, generator loss: 8.996305465698242
+batch: 40, discriminator loss: 0.4096113443374634, generator loss: 10.57956600189209
+batch: 60, discriminator loss: 0.015165787190198898, generator loss: 6.643641948699951
+batch: 80, discriminator loss: 0.10340764373540878, generator loss: 6.856328010559082
+======================================
+Epoch: 188/200, discriminator loss: 0.08346407115459442, generator loss: 5.908353805541992
+======================================
+
+
+batch: 0, discriminator loss: 0.036053746938705444, generator loss: 6.2041449546813965
+batch: 20, discriminator loss: 0.027152471244335175, generator loss: 6.605401039123535
+batch: 40, discriminator loss: 0.916793942451477, generator loss: 9.62348747253418
+batch: 60, discriminator loss: 0.49538135528564453, generator loss: 3.508185386657715
+batch: 80, discriminator loss: 0.2945236563682556, generator loss: 5.433100700378418
+======================================
+Epoch: 189/200, discriminator loss: 0.012464510276913643, generator loss: 7.3919219970703125
+======================================
+
+
+batch: 0, discriminator loss: 0.005088113248348236, generator loss: 8.609940528869629
+batch: 20, discriminator loss: 0.4800979495048523, generator loss: 4.002737522125244
+batch: 40, discriminator loss: 0.08065721392631531, generator loss: 4.631655693054199
+batch: 60, discriminator loss: 0.011803830973803997, generator loss: 6.315562725067139
+batch: 80, discriminator loss: 0.05445348471403122, generator loss: 6.06329345703125
+======================================
+Epoch: 190/200, discriminator loss: 0.02737250365316868, generator loss: 7.655396938323975
+======================================
+
+
+batch: 0, discriminator loss: 0.0825515165925026, generator loss: 6.772799968719482
+batch: 20, discriminator loss: 0.23508265614509583, generator loss: 7.2040486335754395
+batch: 40, discriminator loss: 0.07659792900085449, generator loss: 6.121086120605469
+batch: 60, discriminator loss: 0.01999608986079693, generator loss: 11.83991813659668
+batch: 80, discriminator loss: 0.05275319516658783, generator loss: 6.41422176361084
+======================================
+Epoch: 191/200, discriminator loss: 0.22461111843585968, generator loss: 5.740939617156982
+======================================
+
+
+batch: 0, discriminator loss: 0.03411342203617096, generator loss: 8.396194458007812
+batch: 20, discriminator loss: 0.09230168163776398, generator loss: 4.466953277587891
+batch: 40, discriminator loss: 0.02487478405237198, generator loss: 5.693088054656982
+batch: 60, discriminator loss: 0.18151098489761353, generator loss: 8.21126937866211
+batch: 80, discriminator loss: 0.2131807655096054, generator loss: 7.233607769012451
+======================================
+Epoch: 192/200, discriminator loss: 0.02090746909379959, generator loss: 8.856423377990723
+======================================
+
+
+batch: 0, discriminator loss: 0.00940476544201374, generator loss: 9.082898139953613
+batch: 20, discriminator loss: 0.01350235752761364, generator loss: 8.323967933654785
+batch: 40, discriminator loss: 0.08289176225662231, generator loss: 5.437385559082031
+batch: 60, discriminator loss: 0.011707772500813007, generator loss: 6.657731056213379
+batch: 80, discriminator loss: 0.0750226080417633, generator loss: 7.475358009338379
+======================================
+Epoch: 193/200, discriminator loss: 0.12312182039022446, generator loss: 4.450624942779541
+======================================
+
+
+batch: 0, discriminator loss: 0.013029096648097038, generator loss: 6.738162994384766
+batch: 20, discriminator loss: 0.00355886691249907, generator loss: 8.033684730529785
+batch: 40, discriminator loss: 0.0139450803399086, generator loss: 5.867770195007324
+batch: 60, discriminator loss: 0.06582015752792358, generator loss: 4.300331115722656
+batch: 80, discriminator loss: 0.07674456387758255, generator loss: 6.322288513183594
+======================================
+Epoch: 194/200, discriminator loss: 0.5168723464012146, generator loss: 9.786333084106445
+======================================
+
+
+batch: 0, discriminator loss: 0.15491238236427307, generator loss: 6.794610023498535
+batch: 20, discriminator loss: 0.07414691150188446, generator loss: 3.3584089279174805
+batch: 40, discriminator loss: 0.08072665333747864, generator loss: 5.122377872467041
+batch: 60, discriminator loss: 0.06963521242141724, generator loss: 4.922280788421631
+batch: 80, discriminator loss: 0.0313757061958313, generator loss: 7.370040416717529
+======================================
+Epoch: 195/200, discriminator loss: 0.044225241988897324, generator loss: 4.6702094078063965
+======================================
+
+
+batch: 0, discriminator loss: 0.016959326341748238, generator loss: 5.626790523529053
+batch: 20, discriminator loss: 0.014239160344004631, generator loss: 5.591707229614258
+batch: 40, discriminator loss: 0.15906544029712677, generator loss: 4.865347385406494
+batch: 60, discriminator loss: 0.0285398680716753, generator loss: 4.851973056793213
+batch: 80, discriminator loss: 0.1433481127023697, generator loss: 4.285013675689697
+======================================
+Epoch: 196/200, discriminator loss: 0.014472139067947865, generator loss: 13.487554550170898
+======================================
+
+
+batch: 0, discriminator loss: 0.05212416872382164, generator loss: 15.844951629638672
+batch: 20, discriminator loss: 0.1793704479932785, generator loss: 4.597118377685547
+batch: 40, discriminator loss: 0.015488872304558754, generator loss: 5.661648750305176
+batch: 60, discriminator loss: 0.1160828247666359, generator loss: 4.4824042320251465
+batch: 80, discriminator loss: 0.10759945213794708, generator loss: 6.463836193084717
+======================================
+Epoch: 197/200, discriminator loss: 0.007611612323671579, generator loss: 7.338359355926514
+======================================
+
+
+batch: 0, discriminator loss: 0.024008095264434814, generator loss: 6.978041648864746
+batch: 20, discriminator loss: 0.06871543079614639, generator loss: 5.450000762939453
+batch: 40, discriminator loss: 0.04170260205864906, generator loss: 8.621691703796387
+batch: 60, discriminator loss: 0.02303783968091011, generator loss: 5.758786678314209
+batch: 80, discriminator loss: 0.011586830951273441, generator loss: 7.4646477699279785
+======================================
+Epoch: 198/200, discriminator loss: 0.042144421488046646, generator loss: 6.719983100891113
+======================================
+
+
+batch: 0, discriminator loss: 0.1448488086462021, generator loss: 7.021286964416504
+batch: 20, discriminator loss: 0.14035142958164215, generator loss: 7.56651496887207
+batch: 40, discriminator loss: 0.005383627489209175, generator loss: 9.83887004852295
+batch: 60, discriminator loss: 0.06361275166273117, generator loss: 7.406578063964844
+batch: 80, discriminator loss: 0.02588680572807789, generator loss: 5.757051467895508
+======================================
+Epoch: 199/200, discriminator loss: 0.023596899583935738, generator loss: 7.863455772399902
+======================================
+
+
